@@ -2,33 +2,30 @@
 
 This is a tool that automatically creates an overlay for the CarAPP on the QF001 (ROCO K706) Head Unit.
 
-## Disclaimer
-You MUST have JRE and JDK installed, link below:
+## Usage
+
+### 1. Preparation
+You must have JRE and JDK installed, link below:
 
 JDK: [https://www.oracle.com/java/technologies/javase-jdk14-downloads.html](https://www.oracle.com/java/technologies/javase-jdk14-downloads.html)
 
 JRE: [https://www.java.com/en/download/](https://www.java.com/en/download/)
 
+### 2. Download
+On the top right corner of this GitHub page, click on the green Code button and then click Download ZIP. Then extract that anywhere.
 
-# Download
-On the top right corner of this GitHub page, click on Clone or Download, and then click Download ZIP. Then extract that anywhere.
+### 3. Modifying text & translations
+If you want to change the strings in the default, English language, open the [`default-resources/res/values/strings.xml`](https://github.com/patriksh/QF001CarAppOverlay/blob/master/default-resources/res/values/strings.xml) and find a string you want to translate.
+Copy it, and paste it to the new [`resources/res/values/strings.xml`](https://github.com/patriksh/QF001CarAppOverlay/blob/master/resources/res/values/strings.xml).
+Then you can change its text.
 
+If you want to change strings in another language, repeat the same process, but first you have to make a folder for the appropriate language in the `resources/res/values/strings.xml` folder.
+If you were to, for example, change strings in the Croatian translation, you'd put your `strings.xml` inside `resources/res/values-hr/strings.xml`.
 
-# Theming Instructions
-If you never themed before, these are called overlays. They get "overlaid" on top of your existing application and when the app calls for these resources, 
-they take from the overlay first, then the base app.
+### 4. Modifying images
+If you want to modify images, find them in the [`default-resources/res/drawable*` folders](https://github.com/patriksh/QF001CarAppOverlay/blob/master/default-resources/res/values/strings.xml), create the appropriate folder in the `resources/res/` folder, and put your modified image there.
 
-What you have to do is to take the resources from [this](https://github.com/patriksh/QF001CarAppOverlay/tree/master/default-resources) link and edit those pictures. 
-If you're editing in a folder named `drawable-hdpi-v4`, make sure that the folder in `resources/res` has that folder and named correctly, with the file. 
+### 5. Compilation & installation
+Click on `compile.bat` and it will automatically compile and sign an overlay APK for you.
 
-Do not put in unedited files because bloating up the overlay is not ideal.
-
-Once you're done, follow these next steps to compile.
-
-
-# Instructions
-Make sure Java is installed and then you are able to make changes to the `resources/res/` folder for image and text changes.
-
-When you are done, click on `compile.bat` and it will automatically compile and sign an overlay APK for you!
-
-To install, run `installer.bat` and follow instructions.
+After that you can install it by running `installer.bat` and following the instructions.
