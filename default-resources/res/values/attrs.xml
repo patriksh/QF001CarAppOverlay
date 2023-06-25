@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="AcrEndColor" format="color" />
+    <attr name="AcrStartColor" format="color" />
+    <attr name="Background" format="integer" />
+    <attr name="HeightOffset" format="integer" />
+    <attr name="MaxValue" format="integer" />
+    <attr name="MinValue" format="integer" />
+    <attr name="SliderDrawable" format="integer" />
+    <attr name="Unit" format="string" />
+    <attr name="WidthOffset" format="integer" />
+    <attr name="alpha" format="float" />
+    <attr name="arcColor" format="color" />
+    <attr name="arcWidth" format="dimension" />
+    <attr name="bandIcon" format="reference" />
+    <attr name="bandId" format="string" />
+    <attr name="bandKey" format="string" />
+    <attr name="bandName" format="string" />
+    <attr name="battery_drawable" format="reference" />
+    <attr name="canProxyClassName" format="string" />
+    <attr name="cartypeDesc" format="string" />
+    <attr name="cartypeEnable" format="boolean" />
+    <attr name="cartypeIcon" format="reference" />
+    <attr name="cartypeId" format="string" />
+    <attr name="cartypeKey" format="string" />
+    <attr name="cartypeName" format="reference" />
+    <attr name="carversionDesc" format="string" />
+    <attr name="carversionFrom" format="string" />
+    <attr name="carversionHasAir" format="boolean" />
+    <attr name="carversionHasCarRadio" format="boolean" />
+    <attr name="carversionHasVerticalSys" format="boolean" />
+    <attr name="carversionId" format="string" />
+    <attr name="carversionKey" format="string" />
+    <attr name="carversionTo" format="string" />
+    <attr name="caryearFrom" format="string" />
+    <attr name="caryearGen" format="string" />
+    <attr name="caryearId" format="string" />
+    <attr name="caryearKey" format="string" />
+    <attr name="caryearTo" format="string" />
+    <attr name="ci_animator" format="reference" />
+    <attr name="ci_animator_reverse" format="reference" />
+    <attr name="ci_drawable" format="reference" />
+    <attr name="ci_drawable_unselected" format="reference" />
+    <attr name="ci_gravity">
+        <flag name="bottom" value="0x00000050" />
+        <flag name="center" value="0x00000011" />
+        <flag name="center_horizontal" value="0x00000001" />
+        <flag name="center_vertical" value="0x00000010" />
+        <flag name="clip_horizontal" value="0x00000008" />
+        <flag name="clip_vertical" value="0x00000080" />
+        <flag name="end" value="0x00800005" />
+        <flag name="fill" value="0x00000077" />
+        <flag name="fill_horizontal" value="0x00000007" />
+        <flag name="fill_vertical" value="0x00000070" />
+        <flag name="left" value="0x00000003" />
+        <flag name="right" value="0x00000005" />
+        <flag name="start" value="0x00800003" />
+        <flag name="top" value="0x00000030" />
+    </attr>
+    <attr name="ci_height" format="dimension" />
+    <attr name="ci_margin" format="dimension" />
+    <attr name="ci_orientation">
+        <enum name="horizontal" value="0" />
+        <enum name="vertical" value="1" />
+    </attr>
+    <attr name="ci_width" format="dimension" />
+    <attr name="coordinatorLayoutStyle" format="reference" />
+    <attr name="deviceIcon" format="reference" />
+    <attr name="deviceId" format="string" />
+    <attr name="deviceName" format="reference" />
+    <attr name="devicetypeKey" format="string" />
+    <attr name="devicetypeName" format="reference" />
+    <attr name="dialog_type" format="integer" />
+    <attr name="elec_animation_trace_length" format="integer" />
+    <attr name="elec_count" format="integer" />
+    <attr name="elec_direction">
+        <enum name="direction_down" value="1" />
+        <enum name="direction_left" value="2" />
+        <enum name="direction_right" value="3" />
+        <enum name="direction_up" value="0" />
+    </attr>
+    <attr name="elec_drawable" format="reference" />
+    <attr name="elec_fixed_width_height" format="integer" />
+    <attr name="elec_interval" format="dimension" />
+    <attr name="elec_moveStep" format="dimension" />
+    <attr name="elec_updateTime" format="integer" />
+    <attr name="enable" format="boolean" />
+    <attr name="font" format="reference" />
+    <attr name="fontProviderAuthority" format="string" />
+    <attr name="fontProviderCerts" format="reference" />
+    <attr name="fontProviderFetchStrategy">
+        <enum name="async" value="1" />
+        <enum name="blocking" value="0" />
+    </attr>
+    <attr name="fontProviderFetchTimeout" format="integer">
+        <enum name="forever" value="-1" />
+    </attr>
+    <attr name="fontProviderPackage" format="string" />
+    <attr name="fontProviderQuery" format="string" />
+    <attr name="fontStyle">
+        <enum name="italic" value="1" />
+        <enum name="normal" value="0" />
+    </attr>
+    <attr name="fontVariationSettings" format="string" />
+    <attr name="fontWeight" format="integer" />
+    <attr name="grivate" format="integer">
+        <enum name="center" value="2" />
+        <enum name="left" value="1" />
+        <enum name="right" value="0" />
+    </attr>
+    <attr name="horizontal_Space" format="dimension" />
+    <attr name="icon" format="reference" />
+    <attr name="iconRes" format="reference" />
+    <attr name="idKey" format="string" />
+    <attr name="is360UseAcceptLongPress" format="boolean" />
+    <attr name="isAcPanelRemove" format="boolean" />
+    <attr name="isApp" format="boolean" />
+    <attr name="isCustomerizedView" format="boolean" />
+    <attr name="isFull" format="boolean" />
+    <attr name="isHidePop" format="boolean" />
+    <attr name="isPortraitSupport" format="boolean" />
+    <attr name="isReverseControlSupport" format="boolean" />
+    <attr name="isShortCut" format="boolean" />
+    <attr name="isTouchEnable" format="boolean" />
+    <attr name="keylines" format="reference" />
+    <attr name="layout_anchor" format="reference" />
+    <attr name="layout_anchorGravity">
+        <flag name="bottom" value="0x00000050" />
+        <flag name="center" value="0x00000011" />
+        <flag name="center_horizontal" value="0x00000001" />
+        <flag name="center_vertical" value="0x00000010" />
+        <flag name="clip_horizontal" value="0x00000008" />
+        <flag name="clip_vertical" value="0x00000080" />
+        <flag name="end" value="0x00800005" />
+        <flag name="fill" value="0x00000077" />
+        <flag name="fill_horizontal" value="0x00000007" />
+        <flag name="fill_vertical" value="0x00000070" />
+        <flag name="left" value="0x00000003" />
+        <flag name="right" value="0x00000005" />
+        <flag name="start" value="0x00800003" />
+        <flag name="top" value="0x00000030" />
+    </attr>
+    <attr name="layout_behavior" format="string" />
+    <attr name="layout_dodgeInsetEdges">
+        <flag name="all" value="0x00000077" />
+        <flag name="bottom" value="0x00000050" />
+        <flag name="end" value="0x00800005" />
+        <flag name="left" value="0x00000003" />
+        <flag name="none" value="0x00000000" />
+        <flag name="right" value="0x00000005" />
+        <flag name="start" value="0x00800003" />
+        <flag name="top" value="0x00000030" />
+    </attr>
+    <attr name="layout_insetEdge">
+        <enum name="bottom" value="80" />
+        <enum name="end" value="8388613" />
+        <enum name="left" value="3" />
+        <enum name="none" value="0" />
+        <enum name="right" value="5" />
+        <enum name="start" value="8388611" />
+        <enum name="top" value="48" />
+    </attr>
+    <attr name="layout_keyline" format="integer" />
+    <attr name="maxValue" format="integer" />
+    <attr name="moduleKey" format="string" />
+    <attr name="moduleName" format="reference" />
+    <attr name="name" format="reference" />
+    <attr name="pointerColor" format="color" />
+    <attr name="protocaUartBitrate" format="string" />
+    <attr name="protocalDesc" format="string" />
+    <attr name="providerDesc" format="string" />
+    <attr name="providerId" format="string" />
+    <attr name="providerKey" format="string" />
+    <attr name="providerName" format="string" />
+    <attr name="secArcWidth" format="dimension" />
+    <attr name="seiralPortId" format="string" />
+    <attr name="seiralPortName" format="reference" />
+    <attr name="shortCutIconRes" format="reference" />
+    <attr name="statusBarBackground" format="reference|color" />
+    <attr name="subKey" format="string" />
+    <attr name="subName" format="string" />
+    <attr name="textColor" format="color" />
+    <attr name="tikeCount" format="integer" />
+    <attr name="title" format="string" />
+    <attr name="ttcIndex" format="integer" />
+    <attr name="vertical_Space" format="dimension" />
+    <attr name="viewClass" format="string" />
+</resources>

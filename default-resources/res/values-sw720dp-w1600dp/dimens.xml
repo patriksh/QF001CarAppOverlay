@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_left_width">800.0dip</dimen>
+    <dimen name="app_viewpager_marginLeft">50.0dip</dimen>
+    <dimen name="app_viewpager_marginRight">50.0dip</dimen>
+    <dimen name="band_parent_width">300.0dip</dimen>
+    <dimen name="bottom_ac_cycle_parent_width">200.0dip</dimen>
+    <dimen name="bottom_ac_element_bg_width">300.0dip</dimen>
+    <dimen name="bottom_ac_left_windmode_marginRight">60.0dip</dimen>
+    <dimen name="bottom_ac_right_windmode_marginLeft">60.0dip</dimen>
+    <dimen name="btn_keyboard_height">60.0dip</dimen>
+    <dimen name="canfactory_canprovider_list">300.0dip</dimen>
+    <dimen name="canfactory_carband_list">300.0dip</dimen>
+    <dimen name="canfactory_cartype_carversion_list">445.0dip</dimen>
+    <dimen name="canfactory_carversion_list">445.0dip</dimen>
+    <dimen name="central_left_list_width">380.0dip</dimen>
+    <dimen name="central_right_list_width">380.0dip</dimen>
+    <dimen name="configuration_parent_width">445.0dip</dimen>
+    <dimen name="customerize_setting_left_width">380.0dip</dimen>
+    <dimen name="customerize_setting_parent_marginLeftRight">100.0dip</dimen>
+    <dimen name="fun_list_item_tv_height">90.0dip</dimen>
+    <dimen name="provider_parent_width">300.0dip</dimen>
+    <dimen name="tpms_lin_wheel_marginLeft">558.0dip</dimen>
+    <dimen name="tpms_right_wheel_marginLeft">698.0dip</dimen>
+    <dimen name="type_parent_width">445.0dip</dimen>
+</resources>

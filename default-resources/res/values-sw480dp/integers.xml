@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="amp_fade_balance_height_offset">65</integer>
+    <integer name="amp_fade_balance_width_offset">45</integer>
+    <integer name="central_middle_list_width">500</integer>
+    <integer name="device_dialog_width">780</integer>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/volkswagen_mix_candriver0" android:maxLevel="0" />
+    <item android:drawable="@drawable/volkswagen_mix_candriver1" android:maxLevel="1" />
+    <item android:drawable="@drawable/volkswagen_mix_candriver2" android:maxLevel="2" />
+    <item android:drawable="@drawable/volkswagen_mix_candriver3" android:maxLevel="3" />
+    <item android:drawable="@drawable/volkswagen_mix_candriver4" android:maxLevel="4" />
+    <item android:drawable="@drawable/volkswagen_mix_candriver5" android:maxLevel="5" />
+    <item android:drawable="@drawable/volkswagen_mix_candriver6" android:maxLevel="6" />
+    <item android:drawable="@drawable/volkswagen_mix_candriver7" android:maxLevel="7" />
+</level-list>

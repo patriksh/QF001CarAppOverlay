@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="amp_fade_balance_height_offset">110</integer>
+    <integer name="amp_fade_balance_width_offset">110</integer>
+    <integer name="central_middle_list_width">950</integer>
+    <integer name="data_monitor_log_filter_height">60</integer>
+    <integer name="data_monitor_log_filter_textsize">18</integer>
+    <integer name="data_monitor_log_filter_width">120</integer>
+    <integer name="device_dialog_height">408</integer>
+    <integer name="device_dialog_width">800</integer>
+    <integer name="jeep_freelight_media_cd_info_weight">1</integer>
+    <integer name="radar_portrait_view_height">850</integer>
+</resources>

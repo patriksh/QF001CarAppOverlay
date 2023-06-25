@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_top_text_paddingLeftRight">30.0dip</dimen>
+    <dimen name="btn_keyboard_height">70.0dip</dimen>
+    <dimen name="tpms_lin_wheel_marginLeft">538.0dip</dimen>
+    <dimen name="tpms_right_wheel_marginLeft">718.0dip</dimen>
+</resources>

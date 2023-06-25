@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/ford_sync_menu_icon_sync" android:maxLevel="1" />
+    <item android:drawable="@drawable/ford_sync_menu_icon_phone" android:maxLevel="2" />
+    <item android:drawable="@drawable/ford_sync_menu_icon_line_in" android:maxLevel="5" />
+    <item android:drawable="@drawable/ford_sync_menu_icon_a2dp" android:maxLevel="8" />
+    <item android:drawable="@drawable/ford_sync_menu_icon_usb" android:maxLevel="10" />
+    <item android:drawable="@drawable/ford_sync_menu_icon_ipod" android:maxLevel="11" />
+</level-list>

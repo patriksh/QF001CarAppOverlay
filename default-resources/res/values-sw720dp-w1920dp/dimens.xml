@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="band_parent_width">350.0dip</dimen>
+    <dimen name="canfactory_canprovider_list">350.0dip</dimen>
+    <dimen name="canfactory_carband_list">350.0dip</dimen>
+    <dimen name="canfactory_cartype_carversion_list">555.0dip</dimen>
+    <dimen name="canfactory_carversion_list">555.0dip</dimen>
+    <dimen name="central_left_list_width">400.0dip</dimen>
+    <dimen name="central_right_list_width">400.0dip</dimen>
+    <dimen name="configuration_parent_width">555.0dip</dimen>
+    <dimen name="customerize_setting_right_item_marginLeftRight">50.0dip</dimen>
+    <dimen name="provider_parent_width">350.0dip</dimen>
+    <dimen name="tpms_lin_wheel_marginLeft">850.0dip</dimen>
+    <dimen name="tpms_right_wheel_marginLeft">1045.0dip</dimen>
+    <dimen name="tpms_tv_temp_marginLeft">20.0dip</dimen>
+    <dimen name="tpms_tyre_press_value_marginLeft">52.0dip</dimen>
+    <dimen name="type_parent_width">555.0dip</dimen>
+</resources>

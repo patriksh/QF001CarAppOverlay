@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/car_media_disk_random_n" android:maxLevel="0" />
+    <item android:drawable="@drawable/car_media_disk_random_d" android:maxLevel="1" />
+</level-list>

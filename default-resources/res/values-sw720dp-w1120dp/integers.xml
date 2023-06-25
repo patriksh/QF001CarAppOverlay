@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="amp_fade_balance_height_offset">50</integer>
+    <integer name="amp_fade_balance_width_offset">50</integer>
+    <integer name="central_middle_list_width">710</integer>
+</resources>

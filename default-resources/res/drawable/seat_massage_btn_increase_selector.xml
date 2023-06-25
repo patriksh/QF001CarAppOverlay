@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" android:drawable="@drawable/seat_massage_btn_increase_d" />
+    <item android:drawable="@drawable/seat_massage_btn_increase_n" />
+</selector>

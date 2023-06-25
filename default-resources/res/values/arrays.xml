@@ -1,0 +1,4667 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_0_15_30_45_60_seconds">
+        <item>@string/array_0second</item>
+        <item>@string/array_15second</item>
+        <item>@string/array_30second</item>
+        <item>@string/array_45second</item>
+        <item>@string/array_60second</item>
+    </string-array>
+    <string-array name="array_0_15_30_45_60_step30_180">
+        <item>@string/array_0second</item>
+        <item>@string/array_15second</item>
+        <item>@string/array_30second</item>
+        <item>@string/array_45second</item>
+        <item>@string/array_60second</item>
+        <item>@string/array_90second</item>
+        <item>@string/array_120second</item>
+        <item>@string/array_150second</item>
+        <item>@string/array_180second</item>
+    </string-array>
+    <string-array name="array_0_15_30_60_seconds">
+        <item>@string/array_0second</item>
+        <item>@string/array_15second</item>
+        <item>@string/array_30second</item>
+        <item>@string/array_60second</item>
+    </string-array>
+    <string-array name="array_0_2_seconds">
+        <item>@string/array_0second</item>
+        <item>@string/array_2second</item>
+    </string-array>
+    <string-array name="array_0_30_60_70_seconds">
+        <item>@string/array_0second</item>
+        <item>@string/array_30second</item>
+        <item>@string/array_60second</item>
+        <item>@string/array_70second</item>
+    </string-array>
+    <string-array name="array_0_45s_5_10m_seconds">
+        <item>@string/array_0second</item>
+        <item>@string/array_45second</item>
+        <item>@string/array_5minutes</item>
+        <item>@string/array_10minutes</item>
+    </string-array>
+    <string-array name="array_0_45seconds_5mins_10mins">
+        <item>@string/array_0second</item>
+        <item>@string/array_45second</item>
+        <item>@string/array_5minutes</item>
+        <item>@string/array_10minutes</item>
+    </string-array>
+    <string-array name="array_0_4_8_16_seconds">
+        <item>@string/array_0second</item>
+        <item>@string/array_4second</item>
+        <item>@string/array_8second</item>
+        <item>@string/array_16second</item>
+    </string-array>
+    <string-array name="array_0_5_10_seconds">
+        <item>@string/array_0second</item>
+        <item>@string/array_5second</item>
+        <item>@string/array_10second</item>
+    </string-array>
+    <string-array name="array_0_5_10kmPerHour">
+        <item>0km/h</item>
+        <item>5km/h</item>
+        <item>10km/h</item>
+    </string-array>
+    <string-array name="array_0_7dot5_15_30seconds_1_2_3minutes">
+        <item>@string/array_0second</item>
+        <item>@string/array_7second</item>
+        <item>@string/array_15second</item>
+        <item>@string/array_30second</item>
+        <item>@string/array_1minute</item>
+        <item>@string/array_2minutes</item>
+        <item>@string/array_3minutes</item>
+    </string-array>
+    <string-array name="array_0_8_15_30_seconds">
+        <item>@string/array_0second</item>
+        <item>@string/array_8second</item>
+        <item>@string/array_15second</item>
+        <item>@string/array_30second</item>
+    </string-array>
+    <string-array name="array_0_short_normal_long">
+        <item>@string/array_0second</item>
+        <item>@string/short_</item>
+        <item>@string/normal</item>
+        <item>@string/long_</item>
+    </string-array>
+    <string-array name="array_0_step10_100">
+        <item>0</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+        <item>70</item>
+        <item>80</item>
+        <item>90</item>
+        <item>100</item>
+    </string-array>
+    <string-array name="array_0_step10_200">
+        <item>0</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+        <item>70</item>
+        <item>80</item>
+        <item>90</item>
+        <item>100</item>
+        <item>110</item>
+        <item>120</item>
+        <item>130</item>
+        <item>140</item>
+        <item>150</item>
+        <item>160</item>
+        <item>170</item>
+        <item>180</item>
+        <item>190</item>
+        <item>200</item>
+    </string-array>
+    <string-array name="array_0_step10_240_seconds">
+        <item>@string/array_0second</item>
+        <item>@string/array_10second</item>
+        <item>@string/array_20second</item>
+        <item>@string/array_30second</item>
+        <item>@string/array_40second</item>
+        <item>@string/array_50second</item>
+        <item>@string/array_60second</item>
+        <item>@string/array_70second</item>
+        <item>@string/array_80second</item>
+        <item>@string/array_90second</item>
+        <item>@string/array_100second</item>
+        <item>@string/array_110second</item>
+        <item>@string/array_120second</item>
+        <item>@string/array_130second</item>
+        <item>@string/array_140second</item>
+        <item>@string/array_150second</item>
+        <item>@string/array_160second</item>
+        <item>@string/array_170second</item>
+        <item>@string/array_180second</item>
+        <item>@string/array_190second</item>
+        <item>@string/array_200second</item>
+        <item>@string/array_210second</item>
+        <item>@string/array_220second</item>
+        <item>@string/array_230second</item>
+        <item>@string/array_240second</item>
+    </string-array>
+    <string-array name="array_0_step10_300">
+        <item>@string/array_0second</item>
+        <item>@string/array_10second</item>
+        <item>@string/array_20second</item>
+        <item>@string/array_30second</item>
+        <item>@string/array_40second</item>
+        <item>@string/array_50second</item>
+        <item>@string/array_60second</item>
+        <item>@string/array_70second</item>
+        <item>@string/array_80second</item>
+        <item>@string/array_90second</item>
+        <item>@string/array_100second</item>
+        <item>@string/array_110second</item>
+        <item>@string/array_120second</item>
+        <item>@string/array_130second</item>
+        <item>@string/array_140second</item>
+        <item>@string/array_150second</item>
+        <item>@string/array_160second</item>
+        <item>@string/array_170second</item>
+        <item>@string/array_180second</item>
+        <item>@string/array_190second</item>
+        <item>@string/array_200second</item>
+        <item>@string/array_210second</item>
+        <item>@string/array_220second</item>
+        <item>@string/array_230second</item>
+        <item>@string/array_240second</item>
+        <item>@string/array_250second</item>
+        <item>@string/array_260second</item>
+        <item>@string/array_270second</item>
+        <item>@string/array_280second</item>
+        <item>@string/array_290second</item>
+        <item>@string/array_300second</item>
+    </string-array>
+    <string-array name="array_0_step10_50">
+        <item>0</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+    </string-array>
+    <string-array name="array_0_step20_100">
+        <item>0</item>
+        <item>20</item>
+        <item>40</item>
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+    </string-array>
+    <string-array name="array_0_step20_220_250">
+        <item>0</item>
+        <item>20</item>
+        <item>40</item>
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+        <item>120</item>
+        <item>140</item>
+        <item>160</item>
+        <item>180</item>
+        <item>200</item>
+        <item>220</item>
+        <item>250</item>
+    </string-array>
+    <string-array name="array_0_step2_22_25">
+        <item>0</item>
+        <item>2</item>
+        <item>4</item>
+        <item>6</item>
+        <item>8</item>
+        <item>10</item>
+        <item>12</item>
+        <item>14</item>
+        <item>16</item>
+        <item>18</item>
+        <item>20</item>
+        <item>22</item>
+        <item>25</item>
+    </string-array>
+    <string-array name="array_0_step30_180_seconds">
+        <item>@string/array_0second</item>
+        <item>@string/array_30second</item>
+        <item>@string/array_45second</item>
+        <item>@string/array_60second</item>
+        <item>@string/array_90second</item>
+        <item>@string/array_120second</item>
+        <item>@string/array_150second</item>
+        <item>@string/array_180second</item>
+    </string-array>
+    <string-array name="array_0_step5_100">
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>35</item>
+        <item>40</item>
+        <item>45</item>
+        <item>50</item>
+        <item>55</item>
+        <item>60</item>
+        <item>65</item>
+        <item>70</item>
+        <item>75</item>
+        <item>80</item>
+        <item>85</item>
+        <item>90</item>
+        <item>95</item>
+        <item>100</item>
+    </string-array>
+    <string-array name="array_0_step5_30_seconds">
+        <item>0s</item>
+        <item>5s</item>
+        <item>10s</item>
+        <item>15s</item>
+        <item>20s</item>
+        <item>25s</item>
+        <item>30s</item>
+    </string-array>
+    <string-array name="array_0_step5_60_seconds">
+        <item>@string/array_0second</item>
+        <item>@string/array_5second</item>
+        <item>@string/array_10second</item>
+        <item>@string/array_15second</item>
+        <item>@string/array_20second</item>
+        <item>@string/array_25second</item>
+        <item>@string/array_30second</item>
+        <item>@string/array_35second</item>
+        <item>@string/array_40second</item>
+        <item>@string/array_45second</item>
+        <item>@string/array_50second</item>
+        <item>@string/array_55second</item>
+        <item>@string/array_1minute</item>
+    </string-array>
+    <string-array name="array_100_500_step500_9999">
+        <item>100km</item>
+        <item>200km</item>
+        <item>300km</item>
+        <item>400km</item>
+        <item>500km</item>
+        <item>1000km</item>
+        <item>1500km</item>
+        <item>2000km</item>
+        <item>2500km</item>
+        <item>3000km</item>
+        <item>4000km</item>
+        <item>5000km</item>
+        <item>6000km</item>
+        <item>7000km</item>
+        <item>8000km</item>
+        <item>9000km</item>
+        <item>9999km</item>
+    </string-array>
+    <string-array name="array_100_500_step500_9999_value">
+        <item>100</item>
+        <item>200</item>
+        <item>300</item>
+        <item>400</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>1500</item>
+        <item>2000</item>
+        <item>2500</item>
+        <item>3000</item>
+        <item>4000</item>
+        <item>5000</item>
+        <item>6000</item>
+        <item>7000</item>
+        <item>8000</item>
+        <item>9000</item>
+        <item>9999</item>
+    </string-array>
+    <string-array name="array_10_15_20_30_seconds">
+        <item>@string/array_10second</item>
+        <item>@string/array_15second</item>
+        <item>@string/array_20second</item>
+        <item>@string/array_30second</item>
+    </string-array>
+    <string-array name="array_10_20_30_minutes">
+        <item>@string/array_10minutes</item>
+        <item>@string/array_20minutes</item>
+        <item>@string/array_30minutes</item>
+    </string-array>
+    <string-array name="array_10_20_30_seconds">
+        <item>@string/array_10second</item>
+        <item>@string/array_20second</item>
+        <item>@string/array_30second</item>
+    </string-array>
+    <string-array name="array_10_step10_100">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+        <item>70</item>
+        <item>80</item>
+        <item>90</item>
+        <item>100</item>
+    </string-array>
+    <string-array name="array_10_step10_120second">
+        <item>@string/array_10second</item>
+        <item>@string/array_20second</item>
+        <item>@string/array_30second</item>
+        <item>@string/array_40second</item>
+        <item>@string/array_50second</item>
+        <item>@string/array_60second</item>
+        <item>@string/array_70second</item>
+        <item>@string/array_80second</item>
+        <item>@string/array_90second</item>
+        <item>@string/array_100second</item>
+        <item>@string/array_110second</item>
+        <item>@string/array_120second</item>
+    </string-array>
+    <string-array name="array_120_step30_0_seconds">
+        <item>@string/array_120second</item>
+        <item>@string/array_90second</item>
+        <item>@string/array_60second</item>
+        <item>@string/array_30second</item>
+        <item>@string/array_0second</item>
+    </string-array>
+    <string-array name="array_15_30_45_60_seconds">
+        <item>@string/array_15second</item>
+        <item>@string/array_30second</item>
+        <item>@string/array_45second</item>
+        <item>@string/array_60second</item>
+    </string-array>
+    <string-array name="array_15_30_60_seconds">
+        <item>@string/array_15second</item>
+        <item>@string/array_30second</item>
+        <item>@string/array_60second</item>
+    </string-array>
+    <string-array name="array_15_30_km">
+        <item>15km</item>
+        <item>30km</item>
+    </string-array>
+    <string-array name="array_15minutes_continuously">
+        <item>@string/array_15minutes</item>
+        <item>@string/continuously</item>
+    </string-array>
+    <string-array name="array_1800_step100_2300">
+        <item>1800</item>
+        <item>1900</item>
+        <item>2000</item>
+        <item>2100</item>
+        <item>2200</item>
+        <item>2300</item>
+    </string-array>
+    <string-array name="array_200_step10_340">
+        <item>200</item>
+        <item>210</item>
+        <item>220</item>
+        <item>230</item>
+        <item>240</item>
+        <item>250</item>
+        <item>260</item>
+        <item>270</item>
+        <item>280</item>
+        <item>290</item>
+        <item>300</item>
+        <item>310</item>
+        <item>320</item>
+        <item>330</item>
+        <item>340</item>
+    </string-array>
+    <string-array name="array_20_step10_60_seconds">
+        <item>@string/array_20second</item>
+        <item>@string/array_30second</item>
+        <item>@string/array_40second</item>
+        <item>@string/array_50second</item>
+        <item>@string/array_60second</item>
+    </string-array>
+    <string-array name="array_20_step10_80">
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+        <item>70</item>
+        <item>80</item>
+    </string-array>
+    <string-array name="array_20_step20_280">
+        <item>20</item>
+        <item>40</item>
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+        <item>120</item>
+        <item>140</item>
+        <item>160</item>
+        <item>180</item>
+        <item>200</item>
+        <item>220</item>
+        <item>240</item>
+        <item>260</item>
+        <item>280</item>
+    </string-array>
+    <string-array name="array_2d3d_2d_3d_close">
+        <item>2D+3D</item>
+        <item>2D</item>
+        <item>3D</item>
+        <item>@string/close</item>
+    </string-array>
+    <string-array name="array_2d_3d">
+        <item>@string/view_2d</item>
+        <item>@string/view_3d</item>
+    </string-array>
+    <string-array name="array_30_60_120_180_seconds">
+        <item>@string/array_30second</item>
+        <item>@string/array_1minute</item>
+        <item>@string/array_2minutes</item>
+        <item>@string/array_3minutes</item>
+    </string-array>
+    <string-array name="array_30_60_90_close_seconds">
+        <item>@string/array_30second</item>
+        <item>@string/array_60second</item>
+        <item>@string/array_90second</item>
+        <item>@string/close</item>
+    </string-array>
+    <string-array name="array_30_60_90_seconds">
+        <item>@string/array_30second</item>
+        <item>@string/array_60second</item>
+        <item>@string/array_90second</item>
+    </string-array>
+    <string-array name="array_30_step10_240">
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+        <item>70</item>
+        <item>80</item>
+        <item>90</item>
+        <item>100</item>
+        <item>110</item>
+        <item>120</item>
+        <item>13</item>
+        <item>140</item>
+        <item>150</item>
+        <item>160</item>
+        <item>170</item>
+        <item>180</item>
+        <item>190</item>
+        <item>200</item>
+        <item>210</item>
+        <item>220</item>
+        <item>230</item>
+        <item>240</item>
+    </string-array>
+    <string-array name="array_30_step30_180_220">
+        <item>30km/h</item>
+        <item>60km/h</item>
+        <item>90km/h</item>
+        <item>120km/h</item>
+        <item>150km/h</item>
+        <item>180km/h</item>
+        <item>220km/h</item>
+    </string-array>
+    <string-array name="array_30_step30_300">
+        <item>@string/array_30second</item>
+        <item>@string/array_60second</item>
+        <item>@string/array_90second</item>
+        <item>@string/array_120second</item>
+        <item>@string/array_150second</item>
+        <item>@string/array_180second</item>
+        <item>@string/array_210second</item>
+        <item>@string/array_240second</item>
+        <item>@string/array_270second</item>
+        <item>@string/array_300second</item>
+    </string-array>
+    <string-array name="array_30_step5_180">
+        <item>30</item>
+        <item>35</item>
+        <item>40</item>
+        <item>45</item>
+        <item>50</item>
+        <item>55</item>
+        <item>60</item>
+        <item>65</item>
+        <item>70</item>
+        <item>75</item>
+        <item>80</item>
+        <item>85</item>
+        <item>90</item>
+        <item>95</item>
+        <item>100</item>
+        <item>105</item>
+        <item>110</item>
+        <item>115</item>
+        <item>120</item>
+        <item>125</item>
+        <item>130</item>
+        <item>135</item>
+        <item>140</item>
+        <item>145</item>
+        <item>150</item>
+        <item>155</item>
+        <item>160</item>
+        <item>165</item>
+        <item>170</item>
+        <item>175</item>
+        <item>180</item>
+        <item>185</item>
+    </string-array>
+    <string-array name="array_30_step5_250">
+        <item>30</item>
+        <item>35</item>
+        <item>40</item>
+        <item>45</item>
+        <item>50</item>
+        <item>55</item>
+        <item>60</item>
+        <item>65</item>
+        <item>70</item>
+        <item>75</item>
+        <item>80</item>
+        <item>85</item>
+        <item>90</item>
+        <item>95</item>
+        <item>100</item>
+        <item>105</item>
+        <item>110</item>
+        <item>115</item>
+        <item>120</item>
+        <item>125</item>
+        <item>130</item>
+        <item>135</item>
+        <item>140</item>
+        <item>145</item>
+        <item>150</item>
+        <item>155</item>
+        <item>160</item>
+        <item>165</item>
+        <item>170</item>
+        <item>175</item>
+        <item>180</item>
+        <item>185</item>
+        <item>190</item>
+        <item>195</item>
+        <item>200</item>
+        <item>205</item>
+        <item>210</item>
+        <item>215</item>
+        <item>220</item>
+        <item>225</item>
+        <item>230</item>
+        <item>235</item>
+        <item>240</item>
+        <item>245</item>
+        <item>250</item>
+    </string-array>
+    <string-array name="array_30s_1_3_5m_seconds">
+        <item>@string/array_30second</item>
+        <item>@string/array_1minute</item>
+        <item>@string/array_3minutes</item>
+        <item>@string/array_5minutes</item>
+    </string-array>
+    <string-array name="array_30seconds_1_2_3minutes">
+        <item>@string/array_30second</item>
+        <item>@string/array_1minute</item>
+        <item>@string/array_2minutes</item>
+        <item>@string/array_3minutes</item>
+    </string-array>
+    <string-array name="array_30seconds_step30seconds_5minutes">
+        <item>@string/array_30second</item>
+        <item>@string/array_1minute</item>
+        <item>@string/array_1minute_30seconds</item>
+        <item>@string/array_2minutes</item>
+        <item>@string/array_2minutes_30seconds</item>
+        <item>@string/array_3minutes</item>
+        <item>@string/array_3minutes_30seconds</item>
+        <item>@string/array_4minutes</item>
+        <item>@string/array_4minutes_30seconds</item>
+        <item>@string/array_5minutes</item>
+    </string-array>
+    <string-array name="array_3_10_20_30_seconds">
+        <item>@string/array_3second</item>
+        <item>@string/array_10second</item>
+        <item>@string/array_20second</item>
+        <item>@string/array_30second</item>
+    </string-array>
+    <string-array name="array_3_5_7_times">
+        <item>@string/array_3times</item>
+        <item>@string/array_5times</item>
+        <item>@string/array_7times</item>
+    </string-array>
+    <string-array name="array_3_step3_18_22">
+        <item>3</item>
+        <item>6</item>
+        <item>9</item>
+        <item>12</item>
+        <item>15</item>
+        <item>18</item>
+        <item>22</item>
+    </string-array>
+    <string-array name="array_4seconds_variable_speed_sensor">
+        <item>@string/array_4second</item>
+        <item>@string/varialble</item>
+        <item>@string/varialble_by_speed</item>
+        <item>@string/varialble_by_rain_sensor</item>
+    </string-array>
+    <string-array name="array_50_step50_250">
+        <item>50km</item>
+        <item>100km</item>
+        <item>150km</item>
+        <item>200km</item>
+        <item>250km</item>
+    </string-array>
+    <string-array name="array_5_10_15_minutes">
+        <item>@string/array_5minutes</item>
+        <item>@string/array_10minutes</item>
+        <item>@string/array_15minutes</item>
+    </string-array>
+    <string-array name="array_5_10_15minutes">
+        <item>@string/array_30second</item>
+        <item>@string/array_1minute</item>
+        <item>@string/array_3minutes</item>
+        <item>@string/array_5minutes</item>
+    </string-array>
+    <string-array name="array_5_10_minutes">
+        <item>@string/array_5minutes</item>
+        <item>@string/array_10minutes</item>
+    </string-array>
+    <string-array name="array_5a_10a_13a_biggest">
+        <item>@string/anpere_5</item>
+        <item>@string/anpere_10</item>
+        <item>@string/anpere_13</item>
+        <item>@string/biggest</item>
+    </string-array>
+    <string-array name="array_60_30_10_minutes">
+        <item>@string/array_60minutes</item>
+        <item>@string/array_30minutes</item>
+        <item>@string/array_10minutes</item>
+    </string-array>
+    <string-array name="array_60_30_15_7_seconds">
+        <item>@string/array_60second</item>
+        <item>@string/array_30second</item>
+        <item>@string/array_15second</item>
+        <item>@string/array_7second</item>
+    </string-array>
+    <string-array name="array_60_step10_200">
+        <item>60</item>
+        <item>70</item>
+        <item>80</item>
+        <item>90</item>
+        <item>100</item>
+        <item>110</item>
+        <item>120</item>
+        <item>130</item>
+        <item>140</item>
+        <item>150</item>
+        <item>160</item>
+        <item>170</item>
+        <item>180</item>
+        <item>190</item>
+        <item>200</item>
+    </string-array>
+    <string-array name="array_6A_8A_16A_biggest">
+        <item>6A</item>
+        <item>8A</item>
+        <item>16A</item>
+        <item>@string/biggest</item>
+    </string-array>
+    <string-array name="array_6_step1_20">
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+    </string-array>
+    <string-array name="array_70_step5_100percent">
+        <item>70</item>
+        <item>75</item>
+        <item>80</item>
+        <item>85</item>
+        <item>90</item>
+        <item>95</item>
+        <item>100</item>
+    </string-array>
+    <string-array name="array_90_60_30_seconds">
+        <item>@string/array_90second</item>
+        <item>@string/array_60second</item>
+        <item>@string/array_30second</item>
+    </string-array>
+    <string-array name="array_SingleStatic_SingleBreathe_MultyBreathe">
+        <item>@string/atmosphereLightModeSingleStatic</item>
+        <item>@string/atmosphereLightModeSingleBreathe</item>
+        <item>@string/atmosphereLightModeMultyBreathe</item>
+    </string-array>
+    <string-array name="array_Switch_Switch">
+        <item>@string/Switch</item>
+        <item>@string/clear</item>
+    </string-array>
+    <string-array name="array_acPopupStyles">
+        <item>@string/ac_popup_bottom</item>
+        <item>@string/ac_popup_fullscreen</item>
+    </string-array>
+    <string-array name="array_ac_panel">
+        <item>@string/ac_panel1</item>
+        <item>@string/ac_panel2</item>
+        <item>@string/ac_panel3</item>
+    </string-array>
+    <string-array name="array_activeRainWiper_closeRainWiper">
+        <item>@string/activeRainWiper</item>
+        <item>@string/closeRainWiper</item>
+    </string-array>
+    <string-array name="array_addCamera_originalCamera_360Camera">
+        <item>@string/array_add_camera</item>
+        <item>@string/array_car_camera</item>
+        <item>@string/array_360_camera</item>
+    </string-array>
+    <string-array name="array_adjust_cancel">
+        <item>@string/array_adjust</item>
+        <item>@string/cancel</item>
+    </string-array>
+    <string-array name="array_adjust_finish">
+        <item>@string/array_adjust</item>
+        <item>@string/finish</item>
+    </string-array>
+    <string-array name="array_advance_standard_postpone">
+        <item>@string/advance</item>
+        <item>@string/standard</item>
+        <item>@string/postpone</item>
+    </string-array>
+    <string-array name="array_advance_timely_postpone">
+        <item>@string/advance</item>
+        <item>@string/timely</item>
+        <item>@string/postpone</item>
+    </string-array>
+    <string-array name="array_air_condition_audioSourceSwitch">
+        <item>@string/air_condition</item>
+        <item>@string/audioSourceSwitch</item>
+    </string-array>
+    <string-array name="array_alarm_laneKeepAssis_laneDeparture">
+        <item>@string/only_alarm</item>
+        <item>@string/lane_keep_assistance</item>
+        <item>@string/alarm_lane_departure</item>
+    </string-array>
+    <string-array name="array_alarm_laneKeep_laneDeparture">
+        <item>@string/only_alarm</item>
+        <item>@string/alarm_lane_keep</item>
+        <item>@string/alarm_lane_departure</item>
+    </string-array>
+    <string-array name="array_allDoor_slideDoor">
+        <item>@string/unlock_all_door</item>
+        <item>@string/unlock_slide_door</item>
+    </string-array>
+    <string-array name="array_all_driver">
+        <item>@string/all</item>
+        <item>@string/driver</item>
+    </string-array>
+    <string-array name="array_all_front_rear_driver">
+        <item>@string/all</item>
+        <item>@string/front_area</item>
+        <item>@string/rear_area</item>
+        <item>@string/driver</item>
+    </string-array>
+    <string-array name="array_all_local">
+        <item>@string/all</item>
+        <item>@string/local</item>
+    </string-array>
+    <string-array name="array_all_warnning">
+        <item>@string/all</item>
+        <item>@string/warnning</item>
+    </string-array>
+    <string-array name="array_alwaysOpenState_interval1minutes">
+        <item>@string/alwaysOpenState</item>
+        <item>@string/interval1minutes</item>
+    </string-array>
+    <string-array name="array_amp_dsp_equalizer">
+        <item>@string/rock</item>
+        <item>@string/pop</item>
+        <item>@string/hiphop</item>
+        <item>@string/jazz</item>
+        <item>@string/normal</item>
+    </string-array>
+    <string-array name="array_amp_punch">
+        <item>-3</item>
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>+1</item>
+        <item>+2</item>
+        <item>+3</item>
+    </string-array>
+    <string-array name="array_anytime_afterUnlock">
+        <item>@string/any_time</item>
+        <item>@string/after_unlock</item>
+    </string-array>
+    <string-array name="array_area_1_to_15">
+        <item>@string/area1</item>
+        <item>@string/area2</item>
+        <item>@string/area3</item>
+        <item>@string/area4</item>
+        <item>@string/area5</item>
+        <item>@string/area6</item>
+        <item>@string/area7</item>
+        <item>@string/area8</item>
+        <item>@string/area9</item>
+        <item>@string/area10</item>
+        <item>@string/area11</item>
+        <item>@string/area12</item>
+        <item>@string/area13</item>
+        <item>@string/area14</item>
+        <item>@string/area15</item>
+    </string-array>
+    <string-array name="array_asr_close_open_movent">
+        <item>@string/asr_close</item>
+        <item>@string/asr_open</item>
+        <item>@string/asr_movent</item>
+    </string-array>
+    <string-array name="array_atmosphere_dynamic_color">
+        <item>@string/blue_green</item>
+        <item>@string/blue_purple</item>
+    </string-array>
+    <string-array name="array_atmosphere_light_color10">
+        <item>@string/close</item>
+        <item>@string/color1</item>
+        <item>@string/color2</item>
+        <item>@string/color3</item>
+        <item>@string/color4</item>
+        <item>@string/color5</item>
+        <item>@string/color6</item>
+        <item>@string/color7</item>
+        <item>@string/color8</item>
+        <item>@string/color9</item>
+        <item>@string/color10</item>
+    </string-array>
+    <string-array name="array_atmosphere_light_color3">
+        <item>@string/close</item>
+        <item>@string/white</item>
+        <item>@string/orange</item>
+        <item>@string/blue</item>
+    </string-array>
+    <string-array name="array_atmosphere_light_color30">
+        <item>@string/close</item>
+        <item>@string/color1</item>
+        <item>@string/color2</item>
+        <item>@string/color3</item>
+        <item>@string/color4</item>
+        <item>@string/color5</item>
+        <item>@string/color6</item>
+        <item>@string/color7</item>
+        <item>@string/color8</item>
+        <item>@string/color9</item>
+        <item>@string/color10</item>
+        <item>@string/color11</item>
+        <item>@string/color12</item>
+        <item>@string/color13</item>
+        <item>@string/color14</item>
+        <item>@string/color15</item>
+        <item>@string/color16</item>
+        <item>@string/color17</item>
+        <item>@string/color18</item>
+        <item>@string/color19</item>
+        <item>@string/color20</item>
+        <item>@string/color21</item>
+        <item>@string/color22</item>
+        <item>@string/color23</item>
+        <item>@string/color24</item>
+        <item>@string/color25</item>
+        <item>@string/color26</item>
+        <item>@string/color27</item>
+        <item>@string/color28</item>
+        <item>@string/color29</item>
+        <item>@string/color30</item>
+    </string-array>
+    <string-array name="array_atmosphere_light_type">
+        <item>@string/type1</item>
+        <item>@string/type2</item>
+        <item>@string/type3</item>
+    </string-array>
+    <string-array name="array_atmosphere_on_off">
+        <item>@string/close_atmosphereLightOff</item>
+        <item>@string/open_atmosphereLightOn</item>
+        <item>@string/open_atmosphereLightOff</item>
+    </string-array>
+    <string-array name="array_auto_308_4008">
+        <item>@string/auto</item>
+        <item>308</item>
+        <item>4008</item>
+    </string-array>
+    <string-array name="array_auto_advance_middle_postpone">
+        <item>@string/auto</item>
+        <item>@string/advance</item>
+        <item>@string/middle</item>
+        <item>@string/postpone</item>
+    </string-array>
+    <string-array name="array_auto_classic_sport_science">
+        <item>@string/auto</item>
+        <item>@string/array_classic</item>
+        <item>@string/sport</item>
+        <item>@string/array_science</item>
+    </string-array>
+    <string-array name="array_auto_close">
+        <item>@string/auto</item>
+        <item>@string/close</item>
+    </string-array>
+    <string-array name="array_auto_door_lock_mode">
+        <item>@string/close</item>
+        <item>@string/driving_lock</item>
+        <item>@string/driving_lock_ign_unlock</item>
+        <item>@string/shift_p_lock</item>
+        <item>@string/shift_lock_p_unlock</item>
+    </string-array>
+    <string-array name="array_auto_fold_mirrors_conditions">
+        <item>@string/non</item>
+        <item>@string/fold_out_by_speed</item>
+        <item>@string/fold_inout_by_power_door</item>
+        <item>@string/fold_inout_by_key_operation</item>
+    </string-array>
+    <string-array name="array_auto_integrated_adaptive_cruise">
+        <item>@string/cruiser_mode_auto</item>
+        <item>@string/integrated_adaptive_cruise</item>
+    </string-array>
+    <string-array name="array_auto_lastDefault">
+        <item>@string/auto</item>
+        <item>@string/last_default</item>
+    </string-array>
+    <string-array name="array_auto_manual">
+        <item>@string/auto</item>
+        <item>@string/manual</item>
+    </string-array>
+    <string-array name="array_auto_open">
+        <item>@string/auto</item>
+        <item>@string/open</item>
+    </string-array>
+    <string-array name="array_auto_unlock_mode">
+        <item>@string/touch_one_all</item>
+        <item>@string/one_driver_two_all</item>
+    </string-array>
+    <string-array name="array_automaticAdjustment_advance_middle__postpone">
+        <item>@string/automaticAdjustment</item>
+        <item>@string/advance</item>
+        <item>@string/middle</item>
+        <item>@string/postpone</item>
+    </string-array>
+    <string-array name="array_back_parallel_parking">
+        <item>@string/back_parking</item>
+        <item>@string/parallel_parking</item>
+    </string-array>
+    <string-array name="array_back_previous_wide_standard">
+        <item>@string/back_screen_360</item>
+        <item>@string/previous_screen</item>
+        <item>@string/back_screen_wide</item>
+        <item>@string/back_screen_standard</item>
+    </string-array>
+    <string-array name="array_backcar_allSight">
+        <item>@string/back_car</item>
+        <item>@string/all_sight</item>
+    </string-array>
+    <string-array name="array_backcar_channel">
+        <item>AUX1</item>
+        <item>AUX2</item>
+        <item>CCD</item>
+    </string-array>
+    <string-array name="array_backcar_quit_delay">
+        <item>@string/quick</item>
+        <item>@string/normal</item>
+        <item>@string/slower</item>
+        <item>@string/slowest</item>
+    </string-array>
+    <string-array name="array_balticBlue_norwegianForestGreen_provencePurple_colorfulCloud_vitalOrange_desertGold_freshSea_barcelonaRed">
+        <item>@string/balticBlue</item>
+        <item>@string/norwegianForestGreen</item>
+        <item>@string/provencePurple</item>
+        <item>@string/colorfulCloud</item>
+        <item>@string/vitalOrange</item>
+        <item>@string/desertGold</item>
+        <item>@string/freshSea</item>
+        <item>@string/barcelonaRed</item>
+    </string-array>
+    <string-array name="array_battery_ignition">
+        <item>@string/battery</item>
+        <item>@string/ignition</item>
+    </string-array>
+    <string-array name="array_biggest_6a">
+        <item>@string/biggest</item>
+        <item>@string/anpere_6</item>
+    </string-array>
+    <string-array name="array_blue_amber_red_green_violet">
+        <item>@string/blue</item>
+        <item>@string/amber</item>
+        <item>@string/red</item>
+        <item>@string/green</item>
+        <item>@string/violet</item>
+    </string-array>
+    <string-array name="array_blue_gold_red">
+        <item>@string/blue</item>
+        <item>@string/gold</item>
+        <item>@string/red</item>
+    </string-array>
+    <string-array name="array_blue_grey_red">
+        <item>@string/blue</item>
+        <item>@string/grey</item>
+        <item>@string/red</item>
+    </string-array>
+    <string-array name="array_blue_iceBlue_white_pink_red">
+        <item>@string/blue</item>
+        <item>@string/ice_blue</item>
+        <item>@string/white</item>
+        <item>@string/pink</item>
+        <item>@string/red</item>
+    </string-array>
+    <string-array name="array_blue_red_gold">
+        <item>@string/blue</item>
+        <item>@string/red</item>
+        <item>@string/gold</item>
+    </string-array>
+    <string-array name="array_blue_red_speedlink_yelloe">
+        <item>@string/blue</item>
+        <item>@string/red</item>
+        <item>@string/vehicle_speed</item>
+        <item>@string/yellow</item>
+    </string-array>
+    <string-array name="array_brake_service">
+        <item>@string/no</item>
+        <item>@string/yes</item>
+        <item>@string/brakeServiceCancel</item>
+        <item>@string/brakeServiceInit</item>
+        <item>@string/parkingBrakeReset</item>
+        <item>@string/canNotUserServiceMode</item>
+        <item>@string/serviceModeAvailable</item>
+        <item>@string/quitServiceMode</item>
+        <item>@string/settingNotSave</item>
+    </string-array>
+    <string-array name="array_brown_blue">
+        <item>@string/brown</item>
+        <item>@string/blue</item>
+    </string-array>
+    <string-array name="array_cancel_8_16_32">
+        <item>@string/cancel</item>
+        <item>8</item>
+        <item>16</item>
+        <item>32</item>
+    </string-array>
+    <string-array name="array_cancel_confirm">
+        <item>@string/cancel</item>
+        <item>@string/confirm</item>
+    </string-array>
+    <string-array name="array_carControlPanel_camera360Image">
+        <item>@string/carControlPanel</item>
+        <item>@string/camera360Image</item>
+    </string-array>
+    <string-array name="array_car_type_1_2">
+        <item>@string/carType1</item>
+        <item>@string/carType2</item>
+    </string-array>
+    <string-array name="array_car_type_1_3">
+        <item>@string/carType1</item>
+        <item>@string/carType2</item>
+        <item>@string/carType3</item>
+    </string-array>
+    <string-array name="array_clockAlarm_seat">
+        <item>@string/clock_alarm</item>
+        <item>@string/seat</item>
+    </string-array>
+    <string-array name="array_closeDisplay_dayTime_night">
+        <item>@string/close_display</item>
+        <item>@string/day_time</item>
+        <item>@string/night</item>
+    </string-array>
+    <string-array name="array_close_0_to_6">
+        <item>@string/close</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="array_close_10_20_120_seconds">
+        <item>@string/close</item>
+        <item>@string/array_10second</item>
+        <item>@string/array_20second</item>
+        <item>@string/array_120second</item>
+    </string-array>
+    <string-array name="array_close_10_20_30_40_50_60_second">
+        <item>@string/close</item>
+        <item>@string/array_10second</item>
+        <item>@string/array_20second</item>
+        <item>@string/array_30second</item>
+        <item>@string/array_40second</item>
+        <item>@string/array_50second</item>
+        <item>@string/array_60second</item>
+    </string-array>
+    <string-array name="array_close_10_20_30_60_120second">
+        <item>@string/close</item>
+        <item>@string/array_10second</item>
+        <item>@string/array_20second</item>
+        <item>@string/array_30second</item>
+        <item>@string/array_60second</item>
+        <item>@string/array_120second</item>
+    </string-array>
+    <string-array name="array_close_10_20_30_minutes">
+        <item>@string/close</item>
+        <item>@string/array_10minutes</item>
+        <item>@string/array_20minutes</item>
+        <item>@string/array_30minutes</item>
+    </string-array>
+    <string-array name="array_close_10_20_30_seconds">
+        <item>@string/close</item>
+        <item>@string/array_10second</item>
+        <item>@string/array_20second</item>
+        <item>@string/array_30second</item>
+    </string-array>
+    <string-array name="array_close_10_20_kmPerh">
+        <item>@string/close</item>
+        <item>10</item>
+        <item>20</item>
+    </string-array>
+    <string-array name="array_close_10_30_60_120_seconds">
+        <item>@string/close</item>
+        <item>@string/array_10second</item>
+        <item>@string/array_30second</item>
+        <item>@string/array_60second</item>
+        <item>@string/array_120second</item>
+    </string-array>
+    <string-array name="array_close_120_step10_180">
+        <item>@string/close</item>
+        <item>120km/h</item>
+        <item>130km/h</item>
+        <item>140km/h</item>
+        <item>150km/h</item>
+        <item>160km/h</item>
+        <item>170km/h</item>
+        <item>180km/h</item>
+    </string-array>
+    <string-array name="array_close_15_30_45_60_seconds">
+        <item>@string/close</item>
+        <item>@string/array_15second</item>
+        <item>@string/array_30second</item>
+        <item>@string/array_45second</item>
+        <item>@string/array_60second</item>
+    </string-array>
+    <string-array name="array_close_15_30_60_seconds">
+        <item>@string/cancel</item>
+        <item>@string/array_15second</item>
+        <item>@string/array_30second</item>
+        <item>@string/array_60second</item>
+    </string-array>
+    <string-array name="array_close_15_40kmPerHour">
+        <item>@string/close</item>
+        <item>15km/h</item>
+        <item>40km/h</item>
+    </string-array>
+    <string-array name="array_close_1_5_hour">
+        <item>@string/close</item>
+        <item>1H</item>
+        <item>1.5H</item>
+        <item>2H</item>
+        <item>2.5H</item>
+        <item>3H</item>
+        <item>3.5H</item>
+        <item>4H</item>
+    </string-array>
+    <string-array name="array_close_1_to_5">
+        <item>@string/close</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="array_close_1_to_6">
+        <item>@string/close</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="array_close_1min_5mins">
+        <item>@string/close</item>
+        <item>@string/array_1minute</item>
+        <item>@string/array_5minutes</item>
+    </string-array>
+    <string-array name="array_close_1stPress_2ndPress">
+        <item>@string/close</item>
+        <item>@string/array_1st_press</item>
+        <item>@string/array_2st_press</item>
+    </string-array>
+    <string-array name="array_close_20_30_40_50_60_second">
+        <item>@string/close</item>
+        <item>@string/array_20second</item>
+        <item>@string/array_30second</item>
+        <item>@string/array_40second</item>
+        <item>@string/array_50second</item>
+        <item>@string/array_60second</item>
+    </string-array>
+    <string-array name="array_close_20_step10_150_240">
+        <item>@string/close</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+        <item>70</item>
+        <item>80</item>
+        <item>90</item>
+        <item>100</item>
+        <item>110</item>
+        <item>120</item>
+        <item>130</item>
+        <item>140</item>
+        <item>150</item>
+        <item>240</item>
+    </string-array>
+    <string-array name="array_close_2d_3d">
+        <item>@string/close</item>
+        <item>2D</item>
+        <item>3D</item>
+    </string-array>
+    <string-array name="array_close_30_60_120_seconds">
+        <item>@string/close</item>
+        <item>@string/array_30second</item>
+        <item>@string/array_60second</item>
+        <item>@string/array_120second</item>
+    </string-array>
+    <string-array name="array_close_30_60_seconds">
+        <item>@string/close</item>
+        <item>@string/array_30second</item>
+        <item>@string/array_60second</item>
+    </string-array>
+    <string-array name="array_close_30_step30_120_seconds">
+        <item>@string/close</item>
+        <item>@string/array_30second</item>
+        <item>@string/array_60second</item>
+        <item>@string/array_90second</item>
+        <item>@string/array_120second</item>
+    </string-array>
+    <string-array name="array_close_30_step30_180_seconds">
+        <item>@string/close</item>
+        <item>@string/array_30second</item>
+        <item>@string/array_60second</item>
+        <item>@string/array_90second</item>
+        <item>@string/array_120second</item>
+        <item>@string/array_150second</item>
+        <item>@string/array_180second</item>
+    </string-array>
+    <string-array name="array_close_30_step30_90_seconds">
+        <item>@string/close</item>
+        <item>@string/array_30second</item>
+        <item>@string/array_60second</item>
+        <item>@string/array_90second</item>
+    </string-array>
+    <string-array name="array_close_30_step5_130_kmPerHour">
+        <item>@string/close</item>
+        <item>30km/h</item>
+        <item>35km/h</item>
+        <item>40km/h</item>
+        <item>45km/h</item>
+        <item>50km/h</item>
+        <item>55km/h</item>
+        <item>60km/h</item>
+        <item>65km/h</item>
+        <item>70km/h</item>
+        <item>75km/h</item>
+        <item>80km/h</item>
+        <item>85km/h</item>
+        <item>90km/h</item>
+        <item>95km/h</item>
+        <item>100km/h</item>
+        <item>105km/h</item>
+        <item>110km/h</item>
+        <item>115km/h</item>
+        <item>120km/h</item>
+        <item>125km/h</item>
+        <item>130km/h</item>
+    </string-array>
+    <string-array name="array_close_30s_1m_2minutes">
+        <item>@string/close</item>
+        <item>@string/array_30second</item>
+        <item>@string/array_1minute</item>
+        <item>@string/array_2minutes</item>
+    </string-array>
+    <string-array name="array_close_3_5_7_times">
+        <item>@string/close</item>
+        <item>@string/array_3times</item>
+        <item>@string/array_5times</item>
+        <item>@string/array_7times</item>
+    </string-array>
+    <string-array name="array_close_5_step5_20_kmPerh">
+        <item>@string/close</item>
+        <item>5km/h</item>
+        <item>10km/h</item>
+        <item>15km/h</item>
+        <item>20km/h</item>
+    </string-array>
+    <string-array name="array_close_7_15_30_seconds">
+        <item>@string/close</item>
+        <item>@string/array_7second</item>
+        <item>@string/array_15second</item>
+        <item>@string/array_30second</item>
+    </string-array>
+    <string-array name="array_close_8_15kmPerHour">
+        <item>@string/close</item>
+        <item>8km/h</item>
+        <item>15km/h</item>
+    </string-array>
+    <string-array name="array_close_8_20_45_seconds">
+        <item>@string/close</item>
+        <item>@string/array_8second</item>
+        <item>@string/array_20second</item>
+        <item>@string/array_45second</item>
+    </string-array>
+    <string-array name="array_close_VisualAlarm_touchVisualAlarm">
+        <item>@string/close</item>
+        <item>@string/visual_alarm</item>
+        <item>@string/sense_visual_alarm</item>
+    </string-array>
+    <string-array name="array_close_acc_jta">
+        <item>@string/close</item>
+        <item>ACC</item>
+        <item>JTA</item>
+    </string-array>
+    <string-array name="array_close_advance_timely_postpone">
+        <item>@string/close</item>
+        <item>@string/advance</item>
+        <item>@string/timely</item>
+        <item>@string/postpone</item>
+    </string-array>
+    <string-array name="array_close_backFrontSame_lastDefault">
+        <item>@string/close</item>
+        <item>@string/back_front_same</item>
+        <item>@string/last_default</item>
+    </string-array>
+    <string-array name="array_close_beeper_horn">
+        <item>@string/close</item>
+        <item>@string/beeper</item>
+        <item>@string/horn</item>
+    </string-array>
+    <string-array name="array_close_brake_warnningBrake">
+        <item>@string/close</item>
+        <item>@string/positive_brake</item>
+        <item>@string/both_warnning_break</item>
+    </string-array>
+    <string-array name="array_close_cation_anion">
+        <item>@string/close</item>
+        <item>@string/array_cation</item>
+        <item>@string/array_anion</item>
+    </string-array>
+    <string-array name="array_close_chekckPowerOn_checkOpenDoor_interval30minutes">
+        <item>@string/close</item>
+        <item>@string/check_when_power_on</item>
+        <item>@string/check_when_open_door</item>
+        <item>@string/check_interval_30minutes</item>
+    </string-array>
+    <string-array name="array_close_clean_comfort">
+        <item>@string/close</item>
+        <item>@string/array_clean</item>
+        <item>@string/comfort</item>
+    </string-array>
+    <string-array name="array_close_cornerBendLight_intelligenceLight">
+        <item>@string/close</item>
+        <item>@string/corner_bend_light</item>
+        <item>@string/intelligence_light_allocation</item>
+    </string-array>
+    <string-array name="array_close_crimp_open">
+        <item>@string/close</item>
+        <item>@string/crimp</item>
+        <item>@string/open</item>
+    </string-array>
+    <string-array name="array_close_defalut_customerize">
+        <item>@string/close</item>
+        <item>@string/defalut</item>
+        <item>@string/customerize</item>
+    </string-array>
+    <string-array name="array_close_driver">
+        <item>@string/close</item>
+        <item>@string/driver</item>
+    </string-array>
+    <string-array name="array_close_driverDoorOpen_shiftedPark">
+        <item>@string/close</item>
+        <item>@string/driverdoor_open</item>
+        <item>@string/shift_from_p</item>
+    </string-array>
+    <string-array name="array_close_driverPassenger_driver">
+        <item>@string/close</item>
+        <item>@string/driver_passenger</item>
+        <item>@string/driver</item>
+    </string-array>
+    <string-array name="array_close_freshAir_open">
+        <item>@string/close</item>
+        <item>@string/fresh_air</item>
+        <item>@string/open</item>
+    </string-array>
+    <string-array name="array_close_general_sport">
+        <item>@string/close</item>
+        <item>@string/general</item>
+        <item>@string/sport</item>
+    </string-array>
+    <string-array name="array_close_identifyTip_disappearTip_both">
+        <item>@string/close</item>
+        <item>@string/identify_tip</item>
+        <item>@string/disappear_tip</item>
+        <item>@string/identify_disappear_tip</item>
+    </string-array>
+    <string-array name="array_close_ignOff_shiftedPark">
+        <item>@string/close</item>
+        <item>@string/ign_off</item>
+        <item>@string/shifted_park</item>
+    </string-array>
+    <string-array name="array_close_ignitionOn_driverAway">
+        <item>@string/close</item>
+        <item>@string/after_ignition_on</item>
+        <item>@string/after_driver_away</item>
+    </string-array>
+    <string-array name="array_close_light_lightWarnning">
+        <item>@string/close</item>
+        <item>@string/car_light</item>
+        <item>@string/both_car_light_warnning</item>
+    </string-array>
+    <string-array name="array_close_light_speak_lightSpeak">
+        <item>@string/close</item>
+        <item>@string/only_light</item>
+        <item>@string/only_speak</item>
+        <item>@string/light_speak</item>
+    </string-array>
+    <string-array name="array_close_low_high">
+        <item>@string/close</item>
+        <item>@string/low</item>
+        <item>@string/high</item>
+    </string-array>
+    <string-array name="array_close_low_middle_high">
+        <item>@string/close</item>
+        <item>@string/low</item>
+        <item>@string/middle</item>
+        <item>@string/high</item>
+    </string-array>
+    <string-array name="array_close_near_far">
+        <item>@string/close</item>
+        <item>@string/array_near</item>
+        <item>@string/array_far</item>
+    </string-array>
+    <string-array name="array_close_near_standard_far">
+        <item>@string/close</item>
+        <item>@string/array_near</item>
+        <item>@string/standard</item>
+        <item>@string/array_far</item>
+    </string-array>
+    <string-array name="array_close_onlyAlart_alarmBrake">
+        <item>@string/close</item>
+        <item>@string/only_alarm</item>
+        <item>@string/alarm_braking</item>
+    </string-array>
+    <string-array name="array_close_onlyDippedHead_backFogLight">
+        <item>@string/close</item>
+        <item>@string/only_dipped_headlight</item>
+        <item>@string/light_back_fog</item>
+    </string-array>
+    <string-array name="array_close_onlyOpen_hintSoundOpen">
+        <item>@string/close</item>
+        <item>@string/only_open</item>
+        <item>@string/hint_sound_open</item>
+    </string-array>
+    <string-array name="array_close_onlyStatic_StaticDynamic">
+        <item>@string/close</item>
+        <item>@string/only_static</item>
+        <item>@string/both_static_dynamic</item>
+    </string-array>
+    <string-array name="array_close_onlyStatic_dynamic_both">
+        <item>@string/close</item>
+        <item>@string/only_static</item>
+        <item>@string/dynamic</item>
+        <item>@string/both_static_dynamic</item>
+    </string-array>
+    <string-array name="array_close_open">
+        <item>@string/close</item>
+        <item>@string/open</item>
+    </string-array>
+    <string-array name="array_close_open_auto">
+        <item>@string/close</item>
+        <item>@string/open</item>
+        <item>@string/auto</item>
+    </string-array>
+    <string-array name="array_close_open_hornStart">
+        <item>@string/close</item>
+        <item>@string/open</item>
+        <item>@string/horn_moo_start</item>
+    </string-array>
+    <string-array name="array_close_open_lastDefault">
+        <item>@string/close</item>
+        <item>@string/open</item>
+        <item>@string/last_default</item>
+    </string-array>
+    <string-array name="array_close_open_startAfterStop">
+        <item>@string/close</item>
+        <item>@string/open</item>
+        <item>@string/start_after_stop</item>
+    </string-array>
+    <string-array name="array_close_open_trailerCompensation">
+        <item>@string/close</item>
+        <item>@string/open</item>
+        <item>@string/trailer_compensation</item>
+    </string-array>
+    <string-array name="array_close_postpone_timely_advance">
+        <item>@string/close</item>
+        <item>@string/postpone</item>
+        <item>@string/timely</item>
+        <item>@string/advance</item>
+    </string-array>
+    <string-array name="array_close_remote_all">
+        <item>@string/close</item>
+        <item>@string/remote</item>
+        <item>@string/all</item>
+    </string-array>
+    <string-array name="array_close_shiftIntoOrOutPark_ign_off_driverdoor_open_">
+        <item>@string/close</item>
+        <item>@string/shiftIntoOrOutPark</item>
+        <item>@string/ign_off</item>
+        <item>@string/driverdoor_open</item>
+    </string-array>
+    <string-array name="array_close_shiftP_vechicleSpeed">
+        <item>@string/close</item>
+        <item>@string/shift_from_p</item>
+        <item>@string/vehicle_speed</item>
+    </string-array>
+    <string-array name="array_close_speedAlarm_shiftFromP">
+        <item>@string/close</item>
+        <item>@string/speed_alarm</item>
+        <item>@string/shift_from_p</item>
+    </string-array>
+    <string-array name="array_close_standard_delay">
+        <item>@string/close</item>
+        <item>@string/standard</item>
+        <item>@string/delay</item>
+    </string-array>
+    <string-array name="array_close_standard_few">
+        <item>@string/close</item>
+        <item>@string/standard</item>
+        <item>@string/few</item>
+    </string-array>
+    <string-array name="array_close_standard_near_far">
+        <item>@string/close</item>
+        <item>@string/standard</item>
+        <item>@string/near</item>
+        <item>@string/far</item>
+    </string-array>
+    <string-array name="array_close_standard_smart">
+        <item>@string/close</item>
+        <item>@string/standard</item>
+        <item>@string/sensorsensitivity_high</item>
+    </string-array>
+    <string-array name="array_close_steering_column_retraction_raise_both">
+        <item>@string/close</item>
+        <item>@string/steering_column_retraction</item>
+        <item>@string/steering_column_raise</item>
+        <item>@string/steering_column_retraction_raise</item>
+    </string-array>
+    <string-array name="array_close_stretchLean_lean_stretch">
+        <item>@string/close</item>
+        <item>@string/both_stretch_lean</item>
+        <item>@string/only_lean</item>
+        <item>@string/only_stretch</item>
+    </string-array>
+    <string-array name="array_close_stretch_lean_stretchLean">
+        <item>@string/close</item>
+        <item>@string/only_stretch</item>
+        <item>@string/only_lean</item>
+        <item>@string/both_stretch_lean</item>
+    </string-array>
+    <string-array name="array_close_unlock_lock_lockAndUnlock">
+        <item>@string/close</item>
+        <item>@string/unlock</item>
+        <item>@string/lock</item>
+        <item>@string/lock_and_unlock</item>
+    </string-array>
+    <string-array name="array_close_vehicle_speed_shiftIntoOrOutPark">
+        <item>@string/close</item>
+        <item>@string/vehicle_speed</item>
+        <item>@string/shiftIntoOrOutPark</item>
+    </string-array>
+    <string-array name="array_close_vision_audioVisual">
+        <item>@string/close</item>
+        <item>@string/vision</item>
+        <item>@string/audioVisual</item>
+    </string-array>
+    <string-array name="array_close_visual_soundVisual">
+        <item>@string/close</item>
+        <item>@string/visual</item>
+        <item>@string/soundVisual</item>
+    </string-array>
+    <string-array name="array_close_volume_volumeDisplay">
+        <item>@string/close</item>
+        <item>@string/only_volume</item>
+        <item>@string/both_volume_display</item>
+    </string-array>
+    <string-array name="array_close_warning_warnningBrake">
+        <item>@string/close</item>
+        <item>@string/only_warnning</item>
+        <item>@string/both_warnning_break</item>
+    </string-array>
+    <string-array name="array_close_warnningBrake">
+        <item>@string/close</item>
+        <item>@string/both_warnning_break</item>
+    </string-array>
+    <string-array name="array_close_weak_normal">
+        <item>@string/close</item>
+        <item>@string/weak</item>
+        <item>@string/normal</item>
+    </string-array>
+    <string-array name="array_close_whenStop_open">
+        <item>@string/close</item>
+        <item>@string/whenStop</item>
+        <item>@string/open</item>
+    </string-array>
+    <string-array name="array_close_yellow_red_pink_purple_blue_green_skyBlue">
+        <item>@string/close</item>
+        <item>@string/yellow</item>
+        <item>@string/red</item>
+        <item>@string/pink</item>
+        <item>@string/purple</item>
+        <item>@string/blue</item>
+        <item>@string/green</item>
+        <item>@string/sky_blue</item>
+    </string-array>
+    <string-array name="array_coldest_16_step0Point5_29Point5_hotest">
+        <item>coldest</item>
+        <item>16</item>
+        <item>16.5</item>
+        <item>17</item>
+        <item>17.5</item>
+        <item>18</item>
+        <item>18.5</item>
+        <item>19</item>
+        <item>19.5</item>
+        <item>20</item>
+        <item>20.5</item>
+        <item>21</item>
+        <item>21.5</item>
+        <item>22</item>
+        <item>22.5</item>
+        <item>23</item>
+        <item>23.5</item>
+        <item>24</item>
+        <item>24.5</item>
+        <item>25</item>
+        <item>25.5</item>
+        <item>26</item>
+        <item>26.5</item>
+        <item>27</item>
+        <item>27.5</item>
+        <item>28</item>
+        <item>28.5</item>
+        <item>29</item>
+        <item>29.5</item>
+        <item>hotest</item>
+    </string-array>
+    <string-array name="array_color1_to_color7">
+        <item>@string/color1</item>
+        <item>@string/color2</item>
+        <item>@string/color3</item>
+        <item>@string/color4</item>
+        <item>@string/color5</item>
+        <item>@string/color6</item>
+        <item>@string/color7</item>
+    </string-array>
+    <string-array name="array_comfort_economy_sport">
+        <item>@string/comfort</item>
+        <item>@string/economy</item>
+        <item>@string/sport</item>
+    </string-array>
+    <string-array name="array_comfort_sport">
+        <item>@string/comfort</item>
+        <item>@string/sport</item>
+    </string-array>
+    <string-array name="array_comfort_sport_economy">
+        <item>@string/comfort</item>
+        <item>@string/sport</item>
+        <item>@string/economy</item>
+    </string-array>
+    <string-array name="array_comfort_sport_economy_customerize">
+        <item>@string/comfort</item>
+        <item>@string/sport</item>
+        <item>@string/economy</item>
+        <item>@string/customerize</item>
+    </string-array>
+    <string-array name="array_comfort_standard_fullload">
+        <item>@string/comfort</item>
+        <item>@string/standard</item>
+        <item>@string/fully_loaded</item>
+    </string-array>
+    <string-array name="array_comfort_standard_sport">
+        <item>@string/comfort</item>
+        <item>@string/standard</item>
+        <item>@string/sport</item>
+    </string-array>
+    <string-array name="array_comfort_standard_sport_economy">
+        <item>@string/comfort</item>
+        <item>@string/standard</item>
+        <item>@string/sport</item>
+        <item>@string/economy</item>
+    </string-array>
+    <string-array name="array_common_HighLevel">
+        <item>@string/common</item>
+        <item>@string/HighLevel</item>
+    </string-array>
+    <string-array name="array_common_comfort_sport">
+        <item>@string/common</item>
+        <item>@string/comfort</item>
+        <item>@string/sport</item>
+    </string-array>
+    <string-array name="array_config_1_2_3">
+        <item>@string/config1</item>
+        <item>@string/config2</item>
+        <item>@string/config3</item>
+    </string-array>
+    <string-array name="array_cool_economy_comfort">
+        <item>@string/cool</item>
+        <item>@string/economy</item>
+        <item>@string/comfort</item>
+    </string-array>
+    <string-array name="array_cross_parellel">
+        <item>@string/vertical_mode</item>
+        <item>@string/parallel_mode</item>
+    </string-array>
+    <string-array name="array_cruise_speed">
+        <item>30km/h</item>
+        <item>35km/h</item>
+        <item>40km/h</item>
+        <item>45km/h</item>
+        <item>50km/h</item>
+        <item>55km/h</item>
+        <item>60km/h</item>
+        <item>65km/h</item>
+        <item>70km/h</item>
+        <item>75km/h</item>
+        <item>80km/h</item>
+    </string-array>
+    <string-array name="array_cruiser_mode_inteligency_auto">
+        <item>@string/cruiser_mode_intteligent</item>
+        <item>@string/cruiser_mode_auto</item>
+    </string-array>
+    <string-array name="array_dark_mediumDark_middle_mediumLight_light">
+        <item>@string/array_dark</item>
+        <item>@string/array_medium_dark</item>
+        <item>@string/middle</item>
+        <item>@string/array_medium_light</item>
+        <item>@string/array_light</item>
+    </string-array>
+    <string-array name="array_date_format1">
+        <item>@string/dayMonthYearDot</item>
+        <item>@string/monthDayYearSlash</item>
+        <item>@string/yearMonthDayDot</item>
+        <item>@string/yearMonthDaySlash</item>
+    </string-array>
+    <string-array name="array_dateformat_12_24">
+        <item>@string/date_12format</item>
+        <item>@string/date_24format</item>
+    </string-array>
+    <string-array name="array_dateformat_24_12">
+        <item>@string/date_24format</item>
+        <item>@string/date_12format</item>
+    </string-array>
+    <string-array name="array_decrease_increase">
+        <item>@string/decrease</item>
+        <item>@string/increase</item>
+    </string-array>
+    <string-array name="array_deepBlue_deepGreen_deepOrange_fluorescenceOrange">
+        <item>@string/deep_blue</item>
+        <item>@string/deep_green</item>
+        <item>@string/deep_orange</item>
+        <item>@string/fluorescence_orange</item>
+    </string-array>
+    <string-array name="array_defalut_close_open">
+        <item>@string/defalut</item>
+        <item>@string/close</item>
+        <item>@string/open</item>
+    </string-array>
+    <string-array name="array_defalut_close_removeKey_shiftGear_driverDoorOpen">
+        <item>@string/defalut</item>
+        <item>@string/close</item>
+        <item>@string/removeKey</item>
+        <item>@string/shiftGear</item>
+        <item>@string/driverDoorOpen</item>
+    </string-array>
+    <string-array name="array_defalut_close_vehicleSpeed_shiftGear">
+        <item>@string/defalut</item>
+        <item>@string/close</item>
+        <item>@string/vehicleSpeed</item>
+        <item>@string/shiftGear</item>
+    </string-array>
+    <string-array name="array_defalut_longTripMode_EcoMode_comfort_sport_offroad_snow_mud_ruts_rock_normal">
+        <item>@string/defalut</item>
+        <item>@string/longTripMode</item>
+        <item>@string/EcoMode</item>
+        <item>@string/comfort</item>
+        <item>@string/sport</item>
+        <item>@string/offroad</item>
+        <item>@string/snow</item>
+        <item>@string/mud_ruts</item>
+        <item>@string/rock</item>
+        <item>@string/normal</item>
+    </string-array>
+    <string-array name="array_defaultMode_interactiveMode_independenceMode">
+        <item>@string/defaultMode</item>
+        <item>@string/interactiveMode</item>
+        <item>@string/independenceMode</item>
+    </string-array>
+    <string-array name="array_default_low_high_all">
+        <item>@string/defalut</item>
+        <item>@string/middle</item>
+        <item>@string/high</item>
+        <item>@string/on_all</item>
+    </string-array>
+    <string-array name="array_default_sport">
+        <item>@string/defalut</item>
+        <item>@string/sport</item>
+    </string-array>
+    <string-array name="array_dimming_close">
+        <item>@string/array_dimming</item>
+        <item>@string/close</item>
+    </string-array>
+    <string-array name="array_direct_line_assistant">
+        <item>@string/cruiseControlActivity</item>
+        <item>@string/certainSpeedAutoActivity</item>
+    </string-array>
+    <string-array name="array_disable_available">
+        <item>@string/disable</item>
+        <item>@string/available</item>
+    </string-array>
+    <string-array name="array_disable_failed_wait_success">
+        <item>@string/disable</item>
+        <item>@string/failed</item>
+        <item>@string/wait</item>
+        <item>@string/success</item>
+    </string-array>
+    <string-array name="array_distance_bigest_standard_smallest">
+        <item>@string/distance_bigest</item>
+        <item>@string/distance_standard</item>
+        <item>@string/distance_smallest</item>
+    </string-array>
+    <string-array name="array_door_all_driver">
+        <item>@string/all_door</item>
+        <item>@string/driver_door</item>
+    </string-array>
+    <string-array name="array_door_all_driver_close">
+        <item>@string/all_door</item>
+        <item>@string/driver_door</item>
+        <item>@string/close</item>
+    </string-array>
+    <string-array name="array_door_close_driver_all">
+        <item>@string/close</item>
+        <item>@string/driver_door</item>
+        <item>@string/all_door</item>
+    </string-array>
+    <string-array name="array_door_driver_all">
+        <item>@string/driver_door</item>
+        <item>@string/all_door</item>
+    </string-array>
+    <string-array name="array_door_driver_both_all">
+        <item>@string/driver_door</item>
+        <item>@string/driver_passager_door</item>
+        <item>@string/all_door</item>
+    </string-array>
+    <string-array name="array_driverDoorOpen_shiftedPark_ignOff_close">
+        <item>@string/driverdoor_open</item>
+        <item>@string/shifted_park</item>
+        <item>@string/ign_off</item>
+        <item>@string/close</item>
+    </string-array>
+    <string-array name="array_driverWindow_allWindow">
+        <item>@string/close</item>
+        <item>@string/driver_window</item>
+        <item>@string/all_window</item>
+    </string-array>
+    <string-array name="array_driver_1_2_3_customer">
+        <item>@string/driver1</item>
+        <item>@string/driver2</item>
+        <item>@string/driver3</item>
+        <item>@string/customer</item>
+    </string-array>
+    <string-array name="array_drivingComputer_navi_temp">
+        <item>@string/driving_computer</item>
+        <item>@string/navigation</item>
+        <item>@string/out_of_car_temperature</item>
+    </string-array>
+    <string-array name="array_dynamic_static_warnningLine">
+        <item>@string/show_dynamic_trace_line</item>
+        <item>@string/show_static_trace_line</item>
+        <item>@string/show_warnning_line</item>
+    </string-array>
+    <string-array name="array_early_middle_late">
+        <item>@string/morning</item>
+        <item>@string/middle</item>
+        <item>@string/late</item>
+    </string-array>
+    <string-array name="array_early_standard_late">
+        <item>@string/morning</item>
+        <item>@string/standard</item>
+        <item>@string/late</item>
+    </string-array>
+    <string-array name="array_economy_comfort">
+        <item>@string/economy</item>
+        <item>@string/comfort</item>
+    </string-array>
+    <string-array name="array_economy_comfort_smart">
+        <item>@string/economy</item>
+        <item>@string/comfort</item>
+        <item>@string/smart</item>
+    </string-array>
+    <string-array name="array_economy_offroad_offroadIndividual">
+        <item>@string/economy</item>
+        <item>@string/offroad</item>
+        <item>@string/offroad_indivdual</item>
+    </string-array>
+    <string-array name="array_economy_perso_sport_comfort_neutral">
+        <item>@string/economy</item>
+        <item>@string/perso</item>
+        <item>@string/sport</item>
+        <item>@string/comfort</item>
+        <item>@string/neutral</item>
+    </string-array>
+    <string-array name="array_economy_sport">
+        <item>@string/economy</item>
+        <item>@string/sport</item>
+    </string-array>
+    <string-array name="array_economy_standard">
+        <item>@string/economy</item>
+        <item>@string/standard</item>
+    </string-array>
+    <string-array name="array_economy_standard_sport">
+        <item>@string/economy</item>
+        <item>@string/standard</item>
+        <item>@string/sport</item>
+    </string-array>
+    <string-array name="array_economy_standard_sport_customerize_snow">
+        <item>@string/economy</item>
+        <item>@string/standard</item>
+        <item>@string/sport</item>
+        <item>@string/customerize</item>
+        <item>@string/snow</item>
+    </string-array>
+    <string-array name="array_end_start">
+        <item>@string/end</item>
+        <item>@string/start</item>
+    </string-array>
+    <string-array name="array_engineSpeed_navi_temp">
+        <item>@string/engine_speed</item>
+        <item>@string/navigation</item>
+        <item>@string/out_of_car_temperature</item>
+    </string-array>
+    <string-array name="array_europe_asian">
+        <item>@string/europe</item>
+        <item>@string/asian</item>
+    </string-array>
+    <string-array name="array_far_middle_near">
+        <item>@string/array_far</item>
+        <item>@string/middle</item>
+        <item>@string/array_near</item>
+    </string-array>
+    <string-array name="array_fartherAway_mediumGrade_closer">
+        <item>@string/fartherAway</item>
+        <item>@string/mediumGrade</item>
+        <item>@string/closer</item>
+    </string-array>
+    <string-array name="array_fast_quiteFast_normal_quiteSlow_slow">
+        <item>@string/fast</item>
+        <item>@string/quite_fast</item>
+        <item>@string/normal</item>
+        <item>@string/quite_slow</item>
+        <item>@string/slow</item>
+    </string-array>
+    <string-array name="array_findCar_doorNotLock">
+        <item>@string/find_car_and_door_not_lock</item>
+        <item>@string/find_car</item>
+        <item>@string/door_not_lock</item>
+    </string-array>
+    <string-array name="array_finish_reset">
+        <item>@string/finish</item>
+        <item>@string/array_reset</item>
+    </string-array>
+    <string-array name="array_fitCenter_fullScreen">
+        <item>@string/fitCenter</item>
+        <item>@string/fullScreen</item>
+    </string-array>
+    <string-array name="array_flashWhistle_shistle_flash">
+        <item>@string/both_light_flash_whistle</item>
+        <item>@string/whistle</item>
+        <item>@string/only_light_flash</item>
+    </string-array>
+    <string-array name="array_fold_open">
+        <item>@string/fold</item>
+        <item>@string/open</item>
+    </string-array>
+    <string-array name="array_fromBootStart_afterLastCharging">
+        <item>@string/from_boot_start</item>
+        <item>@string/afterLastCharging</item>
+    </string-array>
+    <string-array name="array_front_previous_front_leftright">
+        <item>@string/front_screen_360</item>
+        <item>@string/previous_screen</item>
+        <item>@string/only_front_screen</item>
+        <item>@string/left_right_screen</item>
+    </string-array>
+    <string-array name="array_fullSeat_onlyBackrest">
+        <item>@string/fullSeat</item>
+        <item>@string/onlyBackrest</item>
+    </string-array>
+    <string-array name="array_gears">
+        <item>@string/pGear</item>
+        <item>@string/Gear1</item>
+        <item>@string/Gear2</item>
+        <item>@string/Gear3</item>
+        <item>@string/Gear4</item>
+        <item>@string/Gear5</item>
+        <item>@string/Gear6</item>
+        <item>@string/rGear</item>
+        <item>@string/dGear</item>
+        <item>@string/mGear</item>
+        <item>@string/nGear</item>
+    </string-array>
+    <string-array name="array_green_lightGren_white_pink_red_orangeRed_orangeYellow_yellow_cyan_shallowBlue_blue_purple">
+        <item>@string/green</item>
+        <item>@string/lightGreen</item>
+        <item>@string/white</item>
+        <item>@string/pink</item>
+        <item>@string/red</item>
+        <item>@string/orangeRed</item>
+        <item>@string/orangeYellow</item>
+        <item>@string/yellow</item>
+        <item>@string/cyan</item>
+        <item>@string/shallow_blue</item>
+        <item>@string/blue</item>
+        <item>@string/purple</item>
+    </string-array>
+    <string-array name="array_green_red_blue_purple_orange">
+        <item>@string/green</item>
+        <item>@string/red</item>
+        <item>@string/blue</item>
+        <item>@string/purple</item>
+        <item>@string/orange</item>
+    </string-array>
+    <string-array name="array_green_red_orange_purple_blue">
+        <item>@string/green</item>
+        <item>@string/red</item>
+        <item>@string/orange</item>
+        <item>@string/purple</item>
+        <item>@string/blue</item>
+    </string-array>
+    <string-array name="array_green_yellow">
+        <item>@string/green</item>
+        <item>@string/yellow</item>
+    </string-array>
+    <string-array name="array_headDayTail_headDay_tail_light">
+        <item>@string/headlight_daylight_tail</item>
+        <item>@string/both_headlight_daylight</item>
+        <item>@string/only_tail_light</item>
+    </string-array>
+    <string-array name="array_high_low">
+        <item>@string/high</item>
+        <item>@string/low</item>
+    </string-array>
+    <string-array name="array_high_middle_low">
+        <item>@string/high</item>
+        <item>@string/middle</item>
+        <item>@string/low</item>
+    </string-array>
+    <string-array name="array_high_middle_low_close">
+        <item>@string/high</item>
+        <item>@string/middle</item>
+        <item>@string/low</item>
+        <item>@string/close</item>
+    </string-array>
+    <string-array name="array_high_standard">
+        <item>@string/high</item>
+        <item>@string/standard</item>
+    </string-array>
+    <string-array name="array_high_standard_low">
+        <item>@string/high</item>
+        <item>@string/standard</item>
+        <item>@string/low</item>
+    </string-array>
+    <string-array name="array_hostPowerOffMode_AccOffDoorOpen_AccOff">
+        <item>@string/hostPowerOffMode_AccOffDoorOpen</item>
+        <item>@string/hostPowerOffMode_AccOff</item>
+    </string-array>
+    <string-array name="array_iceBlue_orange_shallowBlue_red_green_blue_purple">
+        <item>@string/ice_blue</item>
+        <item>@string/orange</item>
+        <item>@string/shallow_blue</item>
+        <item>@string/red</item>
+        <item>@string/green</item>
+        <item>@string/blue</item>
+        <item>@string/purple</item>
+    </string-array>
+    <string-array name="array_ignition_switch_on_or_acc">
+        <item>@string/ignition_switch_on_or_acc</item>
+        <item>@string/ignition_switch_on</item>
+    </string-array>
+    <string-array name="array_individual_dashboard">
+        <item>@string/driver_assistance</item>
+        <item>@string/empty</item>
+        <item>@string/motor_info</item>
+        <item>@string/accelerometer</item>
+        <item>@string/temperature</item>
+        <item>@string/navigation</item>
+        <item>@string/driving_computer</item>
+        <item>@string/engineer_speed</item>
+        <item>@string/fatigue_monitor</item>
+    </string-array>
+    <string-array name="array_keeping_offAuto">
+        <item>@string/keeping</item>
+        <item>@string/off_auto</item>
+    </string-array>
+    <string-array name="array_keyless_operation_turn_light_answerback">
+        <item>@string/lock_once_unlock_twice</item>
+        <item>@string/lock_once_unlock_off</item>
+        <item>@string/lock_off_unlock_twice</item>
+        <item>@string/lock_twice_unlock_once</item>
+        <item>@string/lock_off_unlock_once</item>
+        <item>@string/lock_Twice_unlock_off</item>
+        <item>@string/off</item>
+    </string-array>
+    <string-array name="array_km_mis">
+        <item>km</item>
+        <item>mis</item>
+    </string-array>
+    <string-array name="array_landscape_portrait">
+        <item>@string/landscape</item>
+        <item>@string/portrait</item>
+    </string-array>
+    <string-array name="array_laneDepartureWarning_laneKeepAssistance">
+        <item>@string/lane_departure_warning</item>
+        <item>@string/lane_keep_assistance</item>
+    </string-array>
+    <string-array name="array_latching_momentary">
+        <item>@string/latching</item>
+        <item>@string/momentary</item>
+    </string-array>
+    <string-array name="array_late_middle_early">
+        <item>@string/late</item>
+        <item>@string/middle</item>
+        <item>@string/morning</item>
+    </string-array>
+    <string-array name="array_lateralStop_angle90Stop_slantStop">
+        <item>@string/lateral_stop</item>
+        <item>@string/angle90_stop</item>
+        <item>@string/slant_stop</item>
+    </string-array>
+    <string-array name="array_leftWheel_rightWheel">
+        <item>@string/leftWheel</item>
+        <item>@string/rightWheel</item>
+    </string-array>
+    <string-array name="array_left_right">
+        <item>@string/left</item>
+        <item>@string/right</item>
+    </string-array>
+    <string-array name="array_level0_to_4">
+        <item>@string/level0</item>
+        <item>@string/level1</item>
+        <item>@string/level2</item>
+        <item>@string/level3</item>
+        <item>@string/level4</item>
+    </string-array>
+    <string-array name="array_level_0_to_3">
+        <item>@string/level0</item>
+        <item>@string/level1</item>
+        <item>@string/level2</item>
+        <item>@string/level3</item>
+    </string-array>
+    <string-array name="array_level_1_to_10">
+        <item>@string/level1</item>
+        <item>@string/level2</item>
+        <item>@string/level3</item>
+        <item>@string/level4</item>
+        <item>@string/level5</item>
+        <item>@string/level6</item>
+        <item>@string/level7</item>
+        <item>@string/level8</item>
+        <item>@string/level9</item>
+        <item>@string/level10</item>
+    </string-array>
+    <string-array name="array_level_1_to_3">
+        <item>@string/level1</item>
+        <item>@string/level2</item>
+        <item>@string/level3</item>
+    </string-array>
+    <string-array name="array_level_1_to_4">
+        <item>@string/level1</item>
+        <item>@string/level2</item>
+        <item>@string/level3</item>
+        <item>@string/level4</item>
+    </string-array>
+    <string-array name="array_level_1_to_5">
+        <item>@string/level1</item>
+        <item>@string/level2</item>
+        <item>@string/level3</item>
+        <item>@string/level4</item>
+        <item>@string/level5</item>
+    </string-array>
+    <string-array name="array_level_1_to_6">
+        <item>@string/level1</item>
+        <item>@string/level2</item>
+        <item>@string/level3</item>
+        <item>@string/level4</item>
+        <item>@string/level5</item>
+        <item>@string/level6</item>
+    </string-array>
+    <string-array name="array_level_1_to_7">
+        <item>@string/level1</item>
+        <item>@string/level2</item>
+        <item>@string/level3</item>
+        <item>@string/level4</item>
+        <item>@string/level5</item>
+        <item>@string/level6</item>
+        <item>@string/level7</item>
+    </string-array>
+    <string-array name="array_lightSpeak_light_speak">
+        <item>@string/light_speak</item>
+        <item>@string/only_light</item>
+        <item>@string/only_speak</item>
+    </string-array>
+    <string-array name="array_lightSpeak_only_light">
+        <item>@string/light_speak</item>
+        <item>@string/only_light</item>
+    </string-array>
+    <string-array name="array_light_adj_middle_strong_customerize">
+        <item>@string/light_adj</item>
+        <item>@string/middle</item>
+        <item>@string/strong</item>
+        <item>@string/customerize</item>
+    </string-array>
+    <string-array name="array_light_color">
+        <item>@string/close</item>
+        <item>@string/unlimited</item>
+        <item>@string/eternal</item>
+        <item>@string/eager</item>
+        <item>@string/intoxicated</item>
+        <item>@string/vitality</item>
+        <item>@string/individuation</item>
+        <item>@string/auto</item>
+    </string-array>
+    <string-array name="array_light_comfort_sport">
+        <item>@string/light_convenient</item>
+        <item>@string/comfort</item>
+        <item>@string/sport</item>
+    </string-array>
+    <string-array name="array_light_lightSpeak">
+        <item>@string/only_light</item>
+        <item>@string/light_speak</item>
+    </string-array>
+    <string-array name="array_light_lightSpeak_speak_close">
+        <item>@string/only_light</item>
+        <item>@string/light_speak</item>
+        <item>@string/only_speak</item>
+        <item>@string/close</item>
+    </string-array>
+    <string-array name="array_light_speak_lightSpeak">
+        <item>@string/only_light</item>
+        <item>@string/only_speak</item>
+        <item>@string/light_speak</item>
+    </string-array>
+    <string-array name="array_light_standard_weight">
+        <item>@string/light_adj</item>
+        <item>@string/standard</item>
+        <item>@string/weight</item>
+    </string-array>
+    <string-array name="array_lightly_medium_severe_serious">
+        <item>@string/lightly</item>
+        <item>@string/medium</item>
+        <item>@string/severe</item>
+        <item>@string/serious</item>
+    </string-array>
+    <string-array name="array_limit_speed_critical_value">
+        <item>+0km/h</item>
+        <item>+5km/h</item>
+        <item>+10km/h</item>
+        <item>+15km/h</item>
+    </string-array>
+    <string-array name="array_linkWithCharging_ignOff_manual">
+        <item>@string/linkage_with_charging</item>
+        <item>@string/ign_off</item>
+        <item>@string/manual</item>
+    </string-array>
+    <string-array name="array_linkWithfefuel_ignOff_manual">
+        <item>@string/linkage_with_refuel</item>
+        <item>@string/ign_off</item>
+        <item>@string/manual</item>
+    </string-array>
+    <string-array name="array_lithe_standard_steady">
+        <item>@string/lithe</item>
+        <item>@string/standard</item>
+        <item>@string/steady</item>
+    </string-array>
+    <string-array name="array_lockUnlock_onUnlock">
+        <item>@string/lockUnlock</item>
+        <item>@string/onUnlock</item>
+    </string-array>
+    <string-array name="array_long_short">
+        <item>@string/long_</item>
+        <item>@string/short_</item>
+    </string-array>
+    <string-array name="array_lookDown_sideCamera_wideZone">
+        <item>@string/lookDown</item>
+        <item>@string/sideCamera</item>
+        <item>@string/wideZone</item>
+    </string-array>
+    <string-array name="array_lowTempStart_coldTempStart">
+        <item>@string/lowTempStart</item>
+        <item>@string/coldTempStart</item>
+    </string-array>
+    <string-array name="array_low_high">
+        <item>@string/low</item>
+        <item>@string/high</item>
+    </string-array>
+    <string-array name="array_low_high_defalut">
+        <item>@string/low</item>
+        <item>@string/high</item>
+        <item>@string/defalut</item>
+    </string-array>
+    <string-array name="array_low_middle_high">
+        <item>@string/low</item>
+        <item>@string/middle</item>
+        <item>@string/high</item>
+    </string-array>
+    <string-array name="array_low_standard_high">
+        <item>@string/low</item>
+        <item>@string/standard</item>
+        <item>@string/high</item>
+    </string-array>
+    <string-array name="array_lowest_low_high_highest">
+        <item>@string/lowest</item>
+        <item>@string/low</item>
+        <item>@string/high</item>
+        <item>@string/highest</item>
+    </string-array>
+    <string-array name="array_lowest_low_middle_high_highest">
+        <item>@string/lowest</item>
+        <item>@string/low</item>
+        <item>@string/middle</item>
+        <item>@string/high</item>
+        <item>@string/highest</item>
+    </string-array>
+    <string-array name="array_lowest_middle_high_highest">
+        <item>@string/lowest</item>
+        <item>@string/middle</item>
+        <item>@string/high</item>
+        <item>@string/highest</item>
+    </string-array>
+    <string-array name="array_manual_auto">
+        <item>@string/manual</item>
+        <item>@string/auto</item>
+    </string-array>
+    <string-array name="array_manual_overSpeed_smart">
+        <item>@string/manul_speed_limit</item>
+        <item>@string/alarm_when_over_speed</item>
+        <item>@string/smart_speed_limit</item>
+    </string-array>
+    <string-array name="array_middle_near_far">
+        <item>@string/middle</item>
+        <item>@string/array_near</item>
+        <item>@string/array_far</item>
+    </string-array>
+    <string-array name="array_middle_wide_warnning">
+        <item>@string/middle</item>
+        <item>@string/array_wide</item>
+        <item>@string/only_warnning</item>
+    </string-array>
+    <string-array name="array_min_small_middle_big_max">
+        <item>@string/small_min</item>
+        <item>@string/small</item>
+        <item>@string/middle</item>
+        <item>@string/big</item>
+        <item>@string/big_max</item>
+    </string-array>
+    <string-array name="array_minus10_to_10">
+        <item>-10</item>
+        <item>-9</item>
+        <item>-8</item>
+        <item>-7</item>
+        <item>-6</item>
+        <item>-5</item>
+        <item>-4</item>
+        <item>-3</item>
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="array_minus13_to_13">
+        <item>-13</item>
+        <item>-12</item>
+        <item>-11</item>
+        <item>-10</item>
+        <item>-9</item>
+        <item>-8</item>
+        <item>-7</item>
+        <item>-6</item>
+        <item>-5</item>
+        <item>-4</item>
+        <item>-3</item>
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+    </string-array>
+    <string-array name="array_minus15_to_15">
+        <item>-15</item>
+        <item>-14</item>
+        <item>-13</item>
+        <item>-12</item>
+        <item>-11</item>
+        <item>-10</item>
+        <item>-9</item>
+        <item>-8</item>
+        <item>-7</item>
+        <item>-6</item>
+        <item>-5</item>
+        <item>-4</item>
+        <item>-3</item>
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+    </string-array>
+    <string-array name="array_minus20_to_20">
+        <item>-20</item>
+        <item>-19</item>
+        <item>-18</item>
+        <item>-17</item>
+        <item>-16</item>
+        <item>-15</item>
+        <item>-14</item>
+        <item>-13</item>
+        <item>-12</item>
+        <item>-11</item>
+        <item>-10</item>
+        <item>-9</item>
+        <item>-8</item>
+        <item>-7</item>
+        <item>-6</item>
+        <item>-5</item>
+        <item>-4</item>
+        <item>-3</item>
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+    </string-array>
+    <string-array name="array_minus2_to_2">
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="array_minus3_to_3">
+        <item>-3</item>
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="array_minus4_step1_4">
+        <item>-4</item>
+        <item>-3</item>
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="array_minus5_to_5">
+        <item>-5</item>
+        <item>-4</item>
+        <item>-3</item>
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="array_minutes_10_20_30">
+        <item>@string/array_10minutes</item>
+        <item>@string/array_20minutes</item>
+        <item>@string/array_30minutes</item>
+    </string-array>
+    <string-array name="array_mode_factory_user">
+        <item>@string/factory_mode</item>
+        <item>@string/user_mode</item>
+    </string-array>
+    <string-array name="array_narrow_wide">
+        <item>@string/narrow</item>
+        <item>@string/array_wide</item>
+    </string-array>
+    <string-array name="array_narrow_wide_mode">
+        <item>@string/narrow_mode</item>
+        <item>@string/wide_mode</item>
+    </string-array>
+    <string-array name="array_near_far">
+        <item>@string/array_near</item>
+        <item>@string/array_far</item>
+    </string-array>
+    <string-array name="array_near_middle_far">
+        <item>@string/array_near</item>
+        <item>@string/middle</item>
+        <item>@string/array_far</item>
+    </string-array>
+    <string-array name="array_neutral_economy">
+        <item>@string/neutral</item>
+        <item>@string/economy</item>
+    </string-array>
+    <string-array name="array_never_30_60_minutes">
+        <item>@string/never</item>
+        <item>@string/array_30minutes</item>
+        <item>@string/array_60minutes</item>
+    </string-array>
+    <string-array name="array_noOpe_front_back_left1_lefet2_left3_right1_right2_right3">
+        <item>@string/no_operation</item>
+        <item>@string/front_camera</item>
+        <item>@string/back_camera</item>
+        <item>@string/left1</item>
+        <item>@string/left2</item>
+        <item>@string/left3</item>
+        <item>@string/right1</item>
+        <item>@string/right2</item>
+        <item>@string/right3</item>
+    </string-array>
+    <string-array name="array_noOpe_front_back_left_right">
+        <item>@string/no_operation</item>
+        <item>@string/front_camera</item>
+        <item>@string/back_camera</item>
+        <item>@string/left_camera</item>
+        <item>@string/right_camera</item>
+    </string-array>
+    <string-array name="array_no_yes">
+        <item>@string/no</item>
+        <item>@string/yes</item>
+    </string-array>
+    <string-array name="array_non_thePhonePutDown_charging">
+        <item>@string/non</item>
+        <item>@string/thePhonePutDown</item>
+        <item>@string/charging</item>
+    </string-array>
+    <string-array name="array_normalCharging_macrobianCharging">
+        <item>@string/normalCharging</item>
+        <item>@string/macrobianCharging</item>
+    </string-array>
+    <string-array name="array_normalLoad_highLoad">
+        <item>@string/normalLoad</item>
+        <item>@string/highLoad</item>
+    </string-array>
+    <string-array name="array_normal_comfort_sport">
+        <item>@string/normal</item>
+        <item>@string/comfort</item>
+        <item>@string/sport</item>
+    </string-array>
+    <string-array name="array_normal_enter_offroad_raising_downing">
+        <item>@string/normal_height</item>
+        <item>@string/enter_height</item>
+        <item>@string/offroad_height</item>
+        <item>@string/raising</item>
+        <item>@string/downing</item>
+    </string-array>
+    <string-array name="array_normal_face_foot_airflow">
+        <item>@string/normal</item>
+        <item>@string/more_face_airflow_ratio</item>
+        <item>@string/more_foot_airflow_ratio</item>
+    </string-array>
+    <string-array name="array_normal_foot_windshield_airflow">
+        <item>@string/normal</item>
+        <item>@string/more_foot_airflow_ratio</item>
+        <item>@string/more_windshield_airflow_ratio</item>
+    </string-array>
+    <string-array name="array_normal_high_biggest">
+        <item>@string/normal</item>
+        <item>@string/high</item>
+        <item>@string/biggest</item>
+    </string-array>
+    <string-array name="array_normal_lookDown_birdsEyeView">
+        <item>@string/normal</item>
+        <item>@string/lookDown</item>
+        <item>@string/birdsEyeView</item>
+    </string-array>
+    <string-array name="array_normal_snow_mud_desert">
+        <item>@string/road_mode_item_normal</item>
+        <item>@string/snow</item>
+        <item>@string/road_mode_item_mud</item>
+        <item>@string/road_mode_item_desert</item>
+    </string-array>
+    <string-array name="array_normal_sport_comfort">
+        <item>@string/normal</item>
+        <item>@string/sport</item>
+        <item>@string/comfort</item>
+    </string-array>
+    <string-array name="array_notAux_aux">
+        <item>@string/notAuxState</item>
+        <item>@string/auxState</item>
+    </string-array>
+    <string-array name="array_notShow_show">
+        <item>@string/not_show</item>
+        <item>@string/show</item>
+    </string-array>
+    <string-array name="array_notSupport_support">
+        <item>@string/notSupport</item>
+        <item>@string/support</item>
+    </string-array>
+    <string-array name="array_notSync_syncOpen_syncClose_syncOpenClose">
+        <item>@string/notSync</item>
+        <item>@string/syncOpen</item>
+        <item>@string/syncClose</item>
+        <item>@string/syncOpenClose</item>
+    </string-array>
+    <string-array name="array_nothing_10_20_30_seconds">
+        <item>@string/nothing</item>
+        <item>@string/array_10second</item>
+        <item>@string/array_20second</item>
+        <item>@string/array_30second</item>
+    </string-array>
+    <string-array name="array_nothing_backlightControl_force">
+        <item>@string/nothing</item>
+        <item>@string/backlight_control</item>
+        <item>@string/force</item>
+    </string-array>
+    <string-array name="array_nothing_blue_red_amber">
+        <item>@string/nothing</item>
+        <item>@string/blue</item>
+        <item>@string/red</item>
+        <item>@string/amber</item>
+    </string-array>
+    <string-array name="array_num_0_50_80_100">
+        <item>0</item>
+        <item>50</item>
+        <item>80</item>
+        <item>100</item>
+    </string-array>
+    <string-array name="array_num_0_5_10">
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="array_num_0_6_12_15">
+        <item>0</item>
+        <item>6</item>
+        <item>12</item>
+        <item>15</item>
+    </string-array>
+    <string-array name="array_num_0_step5_30">
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="array_offAuto_keeping">
+        <item>@string/off_auto</item>
+        <item>@string/keeping</item>
+    </string-array>
+    <string-array name="array_off_15_30seconds_1_3minutes">
+        <item>@string/off</item>
+        <item>@string/array_15second</item>
+        <item>@string/array_30second</item>
+        <item>@string/array_1minute</item>
+        <item>@string/array_3minutes</item>
+    </string-array>
+    <string-array name="array_off_3_5_seconds">
+        <item>@string/off</item>
+        <item>@string/array_3second</item>
+        <item>@string/array_5second</item>
+    </string-array>
+    <string-array name="array_off_frontLightOn_headLightOn">
+        <item>@string/off</item>
+        <item>@string/front_light_on</item>
+        <item>@string/head_light_on</item>
+    </string-array>
+    <string-array name="array_off_grassGravelSnow_mudRuts_sand_rockCrawl">
+        <item>@string/specialProgramOff</item>
+        <item>@string/grass_gravel_snow</item>
+        <item>@string/mud_ruts</item>
+        <item>@string/road_mode_item_desert</item>
+        <item>@string/rockGrawl</item>
+    </string-array>
+    <string-array name="array_off_on_offAll_onAll">
+        <item>@string/off</item>
+        <item>@string/on</item>
+        <item>@string/off_all</item>
+        <item>@string/on_all</item>
+    </string-array>
+    <string-array name="array_off_partial_full">
+        <item>@string/close</item>
+        <item>@string/partial</item>
+        <item>@string/all</item>
+    </string-array>
+    <string-array name="array_off_shiftedPark_ignOff">
+        <item>@string/off</item>
+        <item>@string/shifted_park</item>
+        <item>@string/ign_off</item>
+    </string-array>
+    <string-array name="array_offen_middle_few_time">
+        <item>@string/offen</item>
+        <item>@string/middle</item>
+        <item>@string/few_time</item>
+    </string-array>
+    <string-array name="array_onlyShake_onlyOrientationAdjust_ShakeAndOrientationAdjust">
+        <item>@string/onlyShake</item>
+        <item>@string/onlyOrientationAdjust</item>
+        <item>@string/ShakeAndOrientationAdjust</item>
+    </string-array>
+    <string-array name="array_onlySportGear_sportAndDriveGear">
+        <item>@string/onlySportGear</item>
+        <item>@string/sportAndDriveGear</item>
+    </string-array>
+    <string-array name="array_onlyVolume_shock_both">
+        <item>@string/only_volume</item>
+        <item>@string/shock</item>
+        <item>@string/both_volume_shock</item>
+    </string-array>
+    <string-array name="array_onlyWarning_onlyDeviation_both">
+        <item>@string/only_warning</item>
+        <item>@string/only_deviation</item>
+        <item>@string/both_warning_deviation</item>
+    </string-array>
+    <string-array name="array_only_flash_and_whistle">
+        <item>@string/only_light_flash</item>
+        <item>@string/both_light_flash_whistle</item>
+    </string-array>
+    <string-array name="array_only_light_lightSpeak">
+        <item>@string/only_light</item>
+        <item>@string/light_speak</item>
+    </string-array>
+    <string-array name="array_party_heyyo_journey_romantic_midnightCity_coffee">
+        <item>@string/party</item>
+        <item>@string/heyyo</item>
+        <item>@string/journey</item>
+        <item>@string/romantic</item>
+        <item>@string/midnightCity</item>
+        <item>@string/coffee</item>
+    </string-array>
+    <string-array name="array_percentage_20_step10_80">
+        <item>20/100</item>
+        <item>30/100</item>
+        <item>40/100</item>
+        <item>50/100</item>
+        <item>60/100</item>
+        <item>70/100</item>
+        <item>80/100</item>
+    </string-array>
+    <string-array name="array_position_all_driver">
+        <item>@string/all</item>
+        <item>@string/position_driver</item>
+    </string-array>
+    <string-array name="array_quit_innervation_suitable">
+        <item>@string/quit_mode</item>
+        <item>@string/innervation_mode</item>
+        <item>@string/suitable_mode</item>
+    </string-array>
+    <string-array name="array_radar_level">
+        <item>@string/array_most_near</item>
+        <item>@string/array_near</item>
+        <item>@string/middle</item>
+        <item>@string/array_far</item>
+        <item>@string/array_most_far</item>
+    </string-array>
+    <string-array name="array_radar_voice_mute">
+        <item>@string/radar_with_voice</item>
+        <item>@string/radar_mute</item>
+    </string-array>
+    <string-array name="array_radar_waring_info">
+        <item>@string/radarShowAndWarningVoiceClosed</item>
+        <item>@string/onlyRadarShow</item>
+        <item>@string/onlyWarningVoice</item>
+        <item>@string/radarShowAndWarningVoiceOpen</item>
+    </string-array>
+    <string-array name="array_rear_frontRear_wipers_on">
+        <item>@string/rear_wipers_on</item>
+        <item>@string/font_rear_wipers_on</item>
+    </string-array>
+    <string-array name="array_record_purpleGold">
+        <item>@string/record</item>
+        <item>@string/purpleGold</item>
+    </string-array>
+    <string-array name="array_red_blue_brown">
+        <item>@string/red</item>
+        <item>@string/blue</item>
+        <item>@string/brown</item>
+    </string-array>
+    <string-array name="array_red_orange_yellow_green_cyan_blue_purple">
+        <item>@string/red</item>
+        <item>@string/orange</item>
+        <item>@string/yellow</item>
+        <item>@string/green</item>
+        <item>@string/cyan</item>
+        <item>@string/blue</item>
+        <item>@string/purple</item>
+    </string-array>
+    <string-array name="array_red_pink_gold_orange_blue_white_green">
+        <item>@string/red</item>
+        <item>@string/pink</item>
+        <item>@string/gold</item>
+        <item>@string/orange</item>
+        <item>@string/blue</item>
+        <item>@string/white</item>
+        <item>@string/green</item>
+    </string-array>
+    <string-array name="array_release_press">
+        <item>@string/release</item>
+        <item>@string/press</item>
+    </string-array>
+    <string-array name="array_resetTripA_resetTripB">
+        <item>@string/resetTripA</item>
+        <item>@string/resetTripB</item>
+    </string-array>
+    <string-array name="array_reset_items">
+        <item>@string/car_pc_reset</item>
+        <item>@string/user_item_reset</item>
+        <item>@string/tmps_pression_reset</item>
+        <item>@string/dvrive_assistance_system_reset</item>
+        <item>@string/atmosphere_light_reset</item>
+        <item>@string/seat_massage_reset</item>
+        <item>@string/hud_reset</item>
+    </string-array>
+    <string-array name="array_right_left">
+        <item>@string/right</item>
+        <item>@string/left</item>
+    </string-array>
+    <string-array name="array_right_now_after_30minutes">
+        <item>@string/right_now</item>
+        <item>@string/after_30minutes</item>
+    </string-array>
+    <string-array name="array_safe_convenient">
+        <item>@string/safe</item>
+        <item>@string/convenient</item>
+    </string-array>
+    <string-array name="array_seconds_30_50_75">
+        <item>@string/array_30second</item>
+        <item>@string/array_50second</item>
+        <item>@string/array_75second</item>
+    </string-array>
+    <string-array name="array_seconds_7_15_30">
+        <item>@string/close</item>
+        <item>@string/array_7second</item>
+        <item>@string/array_15second</item>
+        <item>@string/array_30second</item>
+    </string-array>
+    <string-array name="array_sensitivity_low_middle_high">
+        <item>@string/sensitivity_low</item>
+        <item>@string/sensitivity_middle</item>
+        <item>@string/sensitivity_high</item>
+    </string-array>
+    <string-array name="array_sft_comfortable_powerful">
+        <item>@string/soft</item>
+        <item>@string/comfort</item>
+        <item>@string/powerful</item>
+    </string-array>
+    <string-array name="array_shistle_flash_flashWhistle">
+        <item>@string/whistle</item>
+        <item>@string/only_light_flash</item>
+        <item>@string/both_light_flash_whistle</item>
+    </string-array>
+    <string-array name="array_shock_onlyVolume_both">
+        <item>@string/shock</item>
+        <item>@string/only_volume</item>
+        <item>@string/both_volume_shock</item>
+    </string-array>
+    <string-array name="array_short_long">
+        <item>@string/short_</item>
+        <item>@string/long_</item>
+    </string-array>
+    <string-array name="array_short_long_press">
+        <item>@string/short_press</item>
+        <item>@string/long_press</item>
+    </string-array>
+    <string-array name="array_short_middle_long">
+        <item>@string/short_</item>
+        <item>@string/middle</item>
+        <item>@string/long_</item>
+    </string-array>
+    <string-array name="array_silver_red_grey_white_green">
+        <item>@string/silver</item>
+        <item>@string/red</item>
+        <item>@string/grey</item>
+        <item>@string/white</item>
+        <item>@string/green</item>
+    </string-array>
+    <string-array name="array_singleColorStatic_singleColorBreath_changeColorBreath">
+        <item>@string/sigle_color_static</item>
+        <item>@string/sigle_color_breath</item>
+        <item>@string/change_color_breath</item>
+    </string-array>
+    <string-array name="array_singleDefault_doubleDefault_lastDefault">
+        <item>@string/single_default</item>
+        <item>@string/double_default</item>
+        <item>@string/last_default</item>
+    </string-array>
+    <string-array name="array_sixPointFive_eightPointEight_tenPoinTwoFive">
+        <item>@string/sixPointFive</item>
+        <item>@string/eightPointEight</item>
+        <item>@string/tenPoinTwoFive</item>
+    </string-array>
+    <string-array name="array_sixPointFive_sizeSeven_eightPointThree">
+        <item>@string/sixPointFive</item>
+        <item>@string/sizeSeven</item>
+        <item>@string/eightPointThree</item>
+    </string-array>
+    <string-array name="array_six_seven_tenPoinTwoFive">
+        <item>@string/sizeSix</item>
+        <item>@string/sizeSeven</item>
+        <item>@string/tenPoinTwoFive</item>
+    </string-array>
+    <string-array name="array_size1280x720_30hz_size1280x720_25hz">
+        <item>@string/size1280x720_30hz</item>
+        <item>@string/size1280x720_25hz</item>
+    </string-array>
+    <string-array name="array_small_big">
+        <item>@string/small</item>
+        <item>@string/big</item>
+    </string-array>
+    <string-array name="array_small_level2_to_8_biggest">
+        <item>@string/small</item>
+        <item>@string/level2</item>
+        <item>@string/level3</item>
+        <item>@string/level4</item>
+        <item>@string/level5</item>
+        <item>@string/level6</item>
+        <item>@string/level7</item>
+        <item>@string/level8</item>
+        <item>@string/biggest</item>
+    </string-array>
+    <string-array name="array_small_middle_big">
+        <item>@string/small</item>
+        <item>@string/middle</item>
+        <item>@string/big</item>
+    </string-array>
+    <string-array name="array_small_min_middle_big_max">
+        <item>@string/small_min</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>@string/middle</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>@string/big_max</item>
+    </string-array>
+    <string-array name="array_smartMode_powerKeep_powerCharging">
+        <item>@string/smartMode</item>
+        <item>@string/powerKeep</item>
+        <item>@string/powerCharging</item>
+    </string-array>
+    <string-array name="array_smart_revMode_evMode_saveMode">
+        <item>@string/smart</item>
+        <item>@string/revMode</item>
+        <item>@string/evMode</item>
+        <item>@string/saveMode</item>
+    </string-array>
+    <string-array name="array_soft_normal_strong">
+        <item>@string/soft</item>
+        <item>@string/normal</item>
+        <item>@string/strong</item>
+    </string-array>
+    <string-array name="array_soothing_smart_surging">
+        <item>@string/soothing</item>
+        <item>@string/smart</item>
+        <item>@string/surging</item>
+    </string-array>
+    <string-array name="array_soundEffect_bibi_longlong">
+        <item>@string/longlong</item>
+        <item>@string/bibi</item>
+    </string-array>
+    <string-array name="array_sound_effect1_to_4">
+        <item>@string/array_sound_effect1</item>
+        <item>@string/array_sound_effect2</item>
+        <item>@string/array_sound_effect3</item>
+        <item>@string/array_sound_effect4</item>
+    </string-array>
+    <string-array name="array_speak_lightSpeak_light">
+        <item>@string/only_speak</item>
+        <item>@string/light_speak</item>
+        <item>@string/only_light</item>
+    </string-array>
+    <string-array name="array_speak_light_lightSpeak">
+        <item>@string/only_speak</item>
+        <item>@string/only_light</item>
+        <item>@string/light_speak</item>
+    </string-array>
+    <string-array name="array_speed_6_50_to_260">
+        <item>6km/h</item>
+        <item>50km/h</item>
+        <item>60km/h</item>
+        <item>70km/h</item>
+        <item>80km/h</item>
+        <item>90km/h</item>
+        <item>100km/h</item>
+        <item>120km/h</item>
+        <item>150km/h</item>
+        <item>180km/h</item>
+        <item>200km/h</item>
+        <item>230km/h</item>
+        <item>260km/h</item>
+    </string-array>
+    <string-array name="array_speed_close_low_middle">
+        <item>@string/close</item>
+        <item>@string/low_speed</item>
+        <item>@string/middle_low_speed</item>
+    </string-array>
+    <string-array name="array_speed_gear">
+        <item>@string/not_show</item>
+        <item>@string/lowSpeedGear</item>
+        <item>@string/highSpeedGear</item>
+    </string-array>
+    <string-array name="array_speed_low_middle_high">
+        <item>@string/low_speed</item>
+        <item>@string/middle_speed</item>
+        <item>@string/high_speed</item>
+    </string-array>
+    <string-array name="array_speed_low_middle_high_auto">
+        <item>@string/close</item>
+        <item>@string/low_speed</item>
+        <item>@string/middle_speed</item>
+        <item>@string/high_speed</item>
+        <item>@string/auto</item>
+    </string-array>
+    <string-array name="array_sport_comfort">
+        <item>@string/sport</item>
+        <item>@string/comfort</item>
+    </string-array>
+    <string-array name="array_sport_comfort_neutral">
+        <item>@string/sport</item>
+        <item>@string/comfort</item>
+        <item>@string/neutral</item>
+    </string-array>
+    <string-array name="array_sport_neutral_economy">
+        <item>@string/sport</item>
+        <item>@string/neutral</item>
+        <item>@string/economy</item>
+    </string-array>
+    <string-array name="array_sport_standard_comfort">
+        <item>@string/sport</item>
+        <item>@string/standard</item>
+        <item>@string/comfort</item>
+    </string-array>
+    <string-array name="array_sport_standard_snow">
+        <item>@string/sport</item>
+        <item>@string/standard</item>
+        <item>@string/snow</item>
+    </string-array>
+    <string-array name="array_standardBrake_superBrake">
+        <item>@string/standard_brake</item>
+        <item>@string/super_brake</item>
+    </string-array>
+    <string-array name="array_standard_alongSide">
+        <item>@string/standard</item>
+        <item>@string/along_side</item>
+        <item>lookdown</item>
+    </string-array>
+    <string-array name="array_standard_big">
+        <item>@string/standard</item>
+        <item>@string/big</item>
+    </string-array>
+    <string-array name="array_standard_comfort_sport">
+        <item>@string/standard</item>
+        <item>@string/comfort</item>
+        <item>@string/sport</item>
+    </string-array>
+    <string-array name="array_standard_delay_only_warnning_advance">
+        <item>@string/standard</item>
+        <item>@string/delay</item>
+        <item>@string/only_warnning</item>
+        <item>@string/advance</item>
+    </string-array>
+    <string-array name="array_standard_economy">
+        <item>@string/standard</item>
+        <item>@string/economy</item>
+    </string-array>
+    <string-array name="array_standard_economy_offroad">
+        <item>@string/standard</item>
+        <item>@string/economy</item>
+        <item>@string/offroad</item>
+    </string-array>
+    <string-array name="array_standard_long">
+        <item>@string/standard</item>
+        <item>@string/long_</item>
+    </string-array>
+    <string-array name="array_standard_offRoad_access">
+        <item>@string/standard</item>
+        <item>@string/offroad</item>
+        <item>@string/access</item>
+    </string-array>
+    <string-array name="array_standard_offroad">
+        <item>@string/standard</item>
+        <item>@string/offroad</item>
+    </string-array>
+    <string-array name="array_standard_postpone_warnning_advance">
+        <item>@string/standard</item>
+        <item>@string/postpone</item>
+        <item>@string/only_warnning</item>
+        <item>@string/advance</item>
+    </string-array>
+    <string-array name="array_standard_sport">
+        <item>@string/standard</item>
+        <item>@string/sport</item>
+    </string-array>
+    <string-array name="array_standard_sport_economy">
+        <item>@string/standard</item>
+        <item>@string/sport</item>
+        <item>@string/economy</item>
+    </string-array>
+    <string-array name="array_standard_sport_economy_standardIndividual_snow">
+        <item>@string/standard</item>
+        <item>@string/sport</item>
+        <item>@string/economy</item>
+        <item>@string/standard_indivdual</item>
+        <item>@string/snow</item>
+    </string-array>
+    <string-array name="array_standard_sport_lithe">
+        <item>@string/comfort</item>
+        <item>@string/sport</item>
+        <item>@string/lithe</item>
+    </string-array>
+    <string-array name="array_standard_wide_warnning">
+        <item>@string/standard</item>
+        <item>@string/array_wide</item>
+        <item>@string/only_warnning</item>
+    </string-array>
+    <string-array name="array_steeringWheelVibration_hearing_hearingSteeringWheelVibration">
+        <item>@string/steeringWheelVibration</item>
+        <item>@string/hearing</item>
+        <item>@string/hearingSteeringWheelVibration</item>
+    </string-array>
+    <string-array name="array_stereo_dts">
+        <item>@string/stereo</item>
+        <item>@string/dts</item>
+    </string-array>
+    <string-array name="array_stopUse_activate">
+        <item>@string/stop_use</item>
+        <item>@string/activate</item>
+    </string-array>
+    <string-array name="array_stop_close_open_fresh_air">
+        <item>@string/stop</item>
+        <item>@string/close</item>
+        <item>@string/open</item>
+        <item>@string/fresh_air</item>
+    </string-array>
+    <string-array name="array_style_1_to_4">
+        <item>@string/style1</item>
+        <item>@string/style2</item>
+        <item>@string/style3</item>
+        <item>@string/style4</item>
+    </string-array>
+    <string-array name="array_technologyBlue_charmGold_charmOrange">
+        <item>@string/technologyBlue</item>
+        <item>@string/charmGold</item>
+        <item>@string/charmOrange</item>
+    </string-array>
+    <string-array name="array_temporary_normal">
+        <item>@string/temporary</item>
+        <item>@string/normal</item>
+    </string-array>
+    <string-array name="array_theme1_theme2">
+        <item>@string/theme1</item>
+        <item>@string/theme2</item>
+    </string-array>
+    <string-array name="array_themeColor_singleColorLight">
+        <item>@string/themeColor</item>
+        <item>@string/singleColorLight</item>
+    </string-array>
+    <string-array name="array_times_1_3">
+        <item>@string/array_1times</item>
+        <item>@string/array_3times</item>
+    </string-array>
+    <string-array name="array_tone_1_2_3">
+        <item>@string/tone1</item>
+        <item>@string/tone2</item>
+        <item>@string/tone3</item>
+    </string-array>
+    <string-array name="array_tonic_relaxing_lumbar">
+        <item>@string/tonic</item>
+        <item>@string/relaxing</item>
+        <item>@string/lumbar</item>
+    </string-array>
+    <string-array name="array_transparent_0_50_100">
+        <item>@string/array_transparent_0</item>
+        <item>@string/array_transparent_50</item>
+        <item>@string/array_transparent_100</item>
+    </string-array>
+    <string-array name="array_tree_skin_air">
+        <item>@string/array_tree</item>
+        <item>@string/array_skin</item>
+        <item>@string/array_air</item>
+    </string-array>
+    <string-array name="array_triggered_doing_failed_success">
+        <item></item>
+        <item>@string/triggered</item>
+        <item>@string/doing</item>
+        <item>@string/failed</item>
+        <item>@string/success</item>
+    </string-array>
+    <string-array name="array_tripa_tripb_auto">
+        <item>@string/TripA</item>
+        <item>@string/TripB</item>
+        <item>@string/auto</item>
+    </string-array>
+    <string-array name="array_tripa_tripb_auto_TripPlus_TripMinus">
+        <item>@string/TripA</item>
+        <item>@string/TripB</item>
+        <item>@string/auto</item>
+        <item>@string/TripPlus</item>
+        <item>@string/TripMinus</item>
+    </string-array>
+    <string-array name="array_trunk_allDoor">
+        <item>@string/back_door</item>
+        <item>@string/both_back_car_door</item>
+    </string-array>
+    <string-array name="array_turn_assistance_warnning_both">
+        <item>@string/turn_assistance</item>
+        <item>@string/warnning</item>
+        <item>@string/turn_assistance_warning</item>
+    </string-array>
+    <string-array name="array_twiceLockOpen_twiceLockClose">
+        <item>@string/twiceLockOpen</item>
+        <item>@string/twiceLockClose</item>
+    </string-array>
+    <string-array name="array_type1_type2">
+        <item>@string/type1</item>
+        <item>@string/type2</item>
+    </string-array>
+    <string-array name="array_type1_type2_close">
+        <item>@string/type1</item>
+        <item>@string/type2</item>
+        <item>@string/close</item>
+    </string-array>
+    <string-array name="array_tyre20_tyre21_wintertyre20_winter275_40r20">
+        <item>@string/tyre20</item>
+        <item>@string/tyre21</item>
+        <item>@string/wintertyre20</item>
+        <item>@string/winter275_40r20</item>
+    </string-array>
+    <string-array name="array_ui_sound">
+        <item>@string/ui</item>
+        <item>@string/ui_sound</item>
+    </string-array>
+    <string-array name="array_unLockSlideDoorOpen_slideDoorOpen">
+        <item>@string/unlock_slide_door_open</item>
+        <item>@string/slide_door_open</item>
+    </string-array>
+    <string-array name="array_unit_L_kmPerL">
+        <item>L/100km</item>
+        <item>km/L</item>
+    </string-array>
+    <string-array name="array_unit_L_kmPerL_mpg">
+        <item>l/100km</item>
+        <item>km/l</item>
+        <item>mpg</item>
+    </string-array>
+    <string-array name="array_unit_L_kmPerL_mpgUS">
+        <item>l/100km</item>
+        <item>km/l</item>
+        <item>mpg(us)</item>
+    </string-array>
+    <string-array name="array_unit_L_kmPerL_mpgUS_mpgUK">
+        <item>L/100km</item>
+        <item>km/L</item>
+        <item>mpg(US)</item>
+        <item>mpg(UK)</item>
+    </string-array>
+    <string-array name="array_unit_L_mpgUK_kmPerL_mpg">
+        <item>L/100km</item>
+        <item>mpg(UK)</item>
+        <item>km/L</item>
+        <item>mpg</item>
+    </string-array>
+    <string-array name="array_unit_L_mpgUS_mpgUK_kmPerL">
+        <item>l/100km</item>
+        <item>mpg(US)</item>
+        <item>mpg(UK)</item>
+        <item>km/l</item>
+    </string-array>
+    <string-array name="array_unit_L_mpg_kmPerL">
+        <item>l/100km</item>
+        <item>km/l</item>
+        <item>mpg</item>
+    </string-array>
+    <string-array name="array_unit_bar_psi_kpa">
+        <item>@string/pressure_bar</item>
+        <item>@string/pressure_psi</item>
+        <item>@string/pressure_kPa</item>
+    </string-array>
+    <string-array name="array_unit_common_uk">
+        <item>@string/unit_common</item>
+        <item>@string/unit_uk</item>
+    </string-array>
+    <string-array name="array_unit_common_usa">
+        <item>@string/unit_common</item>
+        <item>@string/unit_usa</item>
+    </string-array>
+    <string-array name="array_unit_degree_fahrenheit">
+        <item>@string/degree</item>
+        <item>@string/fahrenheit</item>
+    </string-array>
+    <string-array name="array_unit_kmPerHour_mph">
+        <item>km/h km</item>
+        <item>mph miles</item>
+    </string-array>
+    <string-array name="array_unit_kmPerL_L_mpg">
+        <item>km/L</item>
+        <item>L/100km</item>
+        <item>mpg</item>
+    </string-array>
+    <string-array name="array_unit_kmPerL_lPer100KM">
+        <item>km/l</item>
+        <item>l/100km</item>
+    </string-array>
+    <string-array name="array_unit_kmPerL_lPer100KM_mpguk_mpgus">
+        <item>km/l</item>
+        <item>l/100km</item>
+        <item>MPG UK</item>
+        <item>MPG US</item>
+    </string-array>
+    <string-array name="array_unit_km_mile">
+        <item>km</item>
+        <item>mile</item>
+    </string-array>
+    <string-array name="array_unit_km_per_hour_mph">
+        <item>km/h</item>
+        <item>mph</item>
+    </string-array>
+    <string-array name="array_unit_kpa_bar_psi">
+        <item>kpa</item>
+        <item>bar</item>
+        <item>psi</item>
+    </string-array>
+    <string-array name="array_unit_kpa_psi_bar_kgfPercm2">
+        <item>kpa</item>
+        <item>psi</item>
+        <item>bar</item>
+        <item>kgf/cm²</item>
+    </string-array>
+    <string-array name="array_unit_kwhPer100km_kmPerkWh">
+        <item>kWh/100km</item>
+        <item>KM/kWh</item>
+    </string-array>
+    <string-array name="array_unit_l_galUK_galUS">
+        <item>L</item>
+        <item>gal(UK)</item>
+        <item>gal(US)</item>
+    </string-array>
+    <string-array name="array_unit_l_gal_kmPerL">
+        <item>l/100km</item>
+        <item>mile/gal</item>
+        <item>km/l</item>
+    </string-array>
+    <string-array name="array_unit_l_kmPerL">
+        <item>L/100km</item>
+        <item>km/L</item>
+    </string-array>
+    <string-array name="array_unit_mile_km">
+        <item>mile</item>
+        <item>km</item>
+    </string-array>
+    <string-array name="array_unit_mpgUK_L_mpgUS_kmPerL">
+        <item>mpg(UK)</item>
+        <item>L/100km</item>
+        <item>mpg(US)</item>
+        <item>km/L</item>
+    </string-array>
+    <string-array name="array_unit_mpgUS_mpgUK_L_kmPerL">
+        <item>MPG(US)</item>
+        <item>MPG(UK)</item>
+        <item>L/100km</item>
+        <item>km/L</item>
+    </string-array>
+    <string-array name="array_unit_mpg_kmPerL_L">
+        <item>MPG</item>
+        <item>KM/L</item>
+        <item>L/100KM</item>
+    </string-array>
+    <string-array name="array_unit_mpg_lPer100KM_kmPerL">
+        <item>mpg</item>
+        <item>l/100km</item>
+        <item>km/l</item>
+    </string-array>
+    <string-array name="array_unit_mph_kmPerhour">
+        <item>Mph</item>
+        <item>km/h</item>
+    </string-array>
+    <string-array name="array_unit_mph_km_per_hour">
+        <item>km/h</item>
+        <item>mph</item>
+    </string-array>
+    <string-array name="array_unit_psi_kpa_bar">
+        <item>psi</item>
+        <item>kpa</item>
+        <item>bar</item>
+    </string-array>
+    <string-array name="array_unit_usa_common">
+        <item>@string/unit_usa</item>
+        <item>@string/unit_common</item>
+    </string-array>
+    <string-array name="array_unit_usa_common_customerize">
+        <item>@string/unit_usa</item>
+        <item>@string/unit_common</item>
+        <item>@string/customerize</item>
+    </string-array>
+    <string-array name="array_uniteSetting_zoneSetting_lastDefault">
+        <item>@string/unite_setting</item>
+        <item>@string/zone_setting</item>
+        <item>@string/last_default</item>
+    </string-array>
+    <string-array name="array_unlock_lock">
+        <item>@string/array_unlock</item>
+        <item>@string/lock</item>
+    </string-array>
+    <string-array name="array_usual_grass_mud_desert">
+        <item>@string/usual</item>
+        <item>@string/grass_gravel_snow</item>
+        <item>@string/mud_ruts</item>
+        <item>@string/road_mode_item_desert</item>
+    </string-array>
+    <string-array name="array_value_0_to_1">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="array_value_0_to_10">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="array_value_0_to_10_percentage">
+        <item>0</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+        <item>70</item>
+        <item>80</item>
+        <item>90</item>
+        <item>100</item>
+    </string-array>
+    <string-array name="array_value_0_to_12">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="array_value_0_to_14">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+    </string-array>
+    <string-array name="array_value_0_to_15">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+    </string-array>
+    <string-array name="array_value_0_to_2">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="array_value_0_to_20">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+    </string-array>
+    <string-array name="array_value_0_to_21">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+    </string-array>
+    <string-array name="array_value_0_to_23">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+    </string-array>
+    <string-array name="array_value_0_to_24">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="array_value_0_to_26">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+    </string-array>
+    <string-array name="array_value_0_to_3">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="array_value_0_to_30">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="array_value_0_to_31">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+    <string-array name="array_value_0_to_32">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+    </string-array>
+    <string-array name="array_value_0_to_4">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="array_value_0_to_40">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+    </string-array>
+    <string-array name="array_value_0_to_5">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="array_value_0_to_59">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+    </string-array>
+    <string-array name="array_value_0_to_6">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="array_value_0_to_7">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="array_value_0_to_8">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="array_value_0_to_9">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="array_value_1_to_10">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="array_value_1_to_11">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+    <string-array name="array_value_1_to_12">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="array_value_1_to_13">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+    </string-array>
+    <string-array name="array_value_1_to_15">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+    </string-array>
+    <string-array name="array_value_1_to_2">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="array_value_1_to_3">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="array_value_1_to_30">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="array_value_1_to_4">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="array_value_1_to_5">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="array_value_1_to_6">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="array_value_1_to_7">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="array_value_1_to_8">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="array_value_1_to_9">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="array_vechicleSpeed_shiftP_close">
+        <item>@string/vehicle_speed</item>
+        <item>@string/shift_from_p</item>
+        <item>@string/close</item>
+    </string-array>
+    <string-array name="array_vertical_parking_horizontal_parking">
+        <item>@string/vertical_parking</item>
+        <item>@string/horizontal_parking</item>
+    </string-array>
+    <string-array name="array_view_all_back_backLeft_backRight">
+        <item>@string/all_view</item>
+        <item>@string/only_back</item>
+        <item>@string/back_left</item>
+        <item>@string/back_right</item>
+    </string-array>
+    <string-array name="array_view_all_front_frontLeft_frontRight">
+        <item>@string/all_view</item>
+        <item>@string/only_front_camera</item>
+        <item>@string/front_left</item>
+        <item>@string/front_right</item>
+    </string-array>
+    <string-array name="array_visual_soundVisual">
+        <item>@string/visual</item>
+        <item>@string/soundVisual</item>
+    </string-array>
+    <string-array name="array_volkswagen_startstop_warning">
+        <item>@string/start_stop_warnning_1</item>
+        <item>@string/start_stop_warnning_2</item>
+        <item>@string/start_stop_warnning_3</item>
+        <item>@string/start_stop_warnning_4</item>
+        <item>@string/start_stop_warnning_5</item>
+        <item>@string/start_stop_warnning_6</item>
+        <item>@string/start_stop_warnning_7</item>
+        <item>@string/start_stop_warnning_8</item>
+        <item>@string/start_stop_warnning_9</item>
+        <item>@string/start_stop_warnning_10</item>
+        <item>@string/start_stop_warnning_11</item>
+        <item>@string/start_stop_warnning_12</item>
+        <item>@string/start_stop_warnning_13</item>
+        <item>@string/start_stop_warnning_14</item>
+        <item>@string/start_stop_warnning_15</item>
+        <item>@string/start_stop_warnning_16</item>
+        <item>@string/start_stop_warnning_17</item>
+        <item>@string/start_stop_warnning_18</item>
+        <item>@string/start_stop_warnning_19</item>
+        <item>@string/start_stop_warnning_20</item>
+        <item>@string/start_stop_warnning_21</item>
+        <item>@string/start_stop_warnning_22</item>
+        <item>@string/start_stop_warnning_23</item>
+        <item>@string/start_stop_warnning_24</item>
+        <item>@string/start_stop_warnning_25</item>
+        <item>@string/start_stop_warnning_26</item>
+        <item>@string/start_stop_warnning_27</item>
+        <item>@string/start_stop_warnning_28</item>
+        <item>@string/start_stop_warnning_29</item>
+        <item>@string/start_stop_warnning_30</item>
+        <item>@string/start_stop_warnning_31</item>
+        <item>@string/start_stop_warnning_32</item>
+        <item>@string/start_stop_warnning_33</item>
+        <item>@string/start_stop_warnning_34</item>
+        <item>@string/start_stop_warnning_35</item>
+        <item>@string/start_stop_warnning_36</item>
+        <item>@string/start_stop_warnning_37</item>
+        <item>@string/start_stop_warnning_38</item>
+        <item>@string/start_stop_warnning_39</item>
+        <item>@string/start_stop_warnning_40</item>
+        <item>@string/start_stop_warnning_41</item>
+        <item>@string/start_stop_warnning_42</item>
+        <item>@string/start_stop_warnning_43</item>
+        <item>@string/start_stop_warnning_44</item>
+        <item>@string/start_stop_warnning_45</item>
+        <item>@string/start_stop_warnning_46</item>
+        <item>@string/start_stop_warnning_47</item>
+        <item>@string/start_stop_warnning_48</item>
+        <item>@string/start_stop_warnning_49</item>
+        <item>@string/start_stop_warnning_50</item>
+        <item>@string/start_stop_warnning_51</item>
+    </string-array>
+    <string-array name="array_volkswagen_startstop_warning_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>224</item>
+        <item>225</item>
+        <item>226</item>
+        <item>228</item>
+        <item>229</item>
+        <item>230</item>
+        <item>231</item>
+        <item>232</item>
+        <item>233</item>
+    </string-array>
+    <string-array name="array_volkswagen_vehicle_warning">
+        <item>@string/vehicle_warning_1</item>
+        <item>@string/vehicle_warning_2</item>
+        <item>@string/vehicle_warning_3</item>
+        <item>@string/vehicle_warning_4</item>
+        <item>@string/vehicle_warning_5</item>
+        <item>@string/vehicle_warning_6</item>
+        <item>@string/vehicle_warning_7</item>
+        <item>@string/vehicle_warning_8</item>
+        <item>@string/vehicle_warning_9</item>
+        <item>@string/vehicle_warning_10</item>
+        <item>@string/vehicle_warning_11</item>
+        <item>@string/vehicle_warning_12</item>
+        <item>@string/vehicle_warning_13</item>
+        <item>@string/vehicle_warning_14</item>
+        <item>@string/vehicle_warning_15</item>
+        <item>@string/vehicle_warning_16</item>
+        <item>@string/vehicle_warning_17</item>
+        <item>@string/vehicle_warning_18</item>
+        <item>@string/vehicle_warning_19</item>
+        <item>@string/vehicle_warning_20</item>
+        <item>@string/vehicle_warning_21</item>
+        <item>@string/vehicle_warning_22</item>
+        <item>@string/vehicle_warning_23</item>
+        <item>@string/vehicle_warning_24</item>
+        <item>@string/vehicle_warning_25</item>
+        <item>@string/vehicle_warning_26</item>
+        <item>@string/vehicle_warning_27</item>
+        <item>@string/vehicle_warning_28</item>
+        <item>@string/vehicle_warning_29</item>
+        <item>@string/vehicle_warning_30</item>
+        <item>@string/vehicle_warning_31</item>
+        <item>@string/vehicle_warning_32</item>
+        <item>@string/vehicle_warning_33</item>
+        <item>@string/vehicle_warning_34</item>
+        <item>@string/vehicle_warning_35</item>
+        <item>@string/vehicle_warning_36</item>
+        <item>@string/vehicle_warning_37</item>
+        <item>@string/vehicle_warning_38</item>
+        <item>@string/vehicle_warning_39</item>
+        <item>@string/vehicle_warning_40</item>
+        <item>@string/vehicle_warning_41</item>
+        <item>@string/vehicle_warning_42</item>
+        <item>@string/vehicle_warning_43</item>
+        <item>@string/vehicle_warning_44</item>
+        <item>@string/vehicle_warning_45</item>
+        <item>@string/vehicle_warning_46</item>
+        <item>@string/vehicle_warning_47</item>
+        <item>@string/vehicle_warning_48</item>
+        <item>@string/vehicle_warning_49</item>
+        <item>@string/vehicle_warning_50</item>
+        <item>@string/vehicle_warning_51</item>
+        <item>@string/vehicle_warning_52</item>
+        <item>@string/vehicle_warning_53</item>
+        <item>@string/vehicle_warning_54</item>
+        <item>@string/vehicle_warning_55</item>
+        <item>@string/vehicle_warning_56</item>
+        <item>@string/vehicle_warning_57</item>
+        <item>@string/vehicle_warning_58</item>
+        <item>@string/vehicle_warning_59</item>
+        <item>@string/vehicle_warning_60</item>
+        <item>@string/vehicle_warning_61</item>
+        <item>@string/vehicle_warning_62</item>
+        <item>@string/vehicle_warning_63</item>
+        <item>@string/vehicle_warning_64</item>
+        <item>@string/vehicle_warning_65</item>
+        <item>@string/vehicle_warning_66</item>
+        <item>@string/vehicle_warning_67</item>
+        <item>@string/vehicle_warning_68</item>
+        <item>@string/vehicle_warning_69</item>
+        <item>@string/vehicle_warning_70</item>
+        <item>@string/vehicle_warning_71</item>
+        <item>@string/vehicle_warning_72</item>
+        <item>@string/vehicle_warning_73</item>
+        <item>@string/vehicle_warning_74</item>
+        <item>@string/vehicle_warning_75</item>
+        <item>@string/vehicle_warning_76</item>
+        <item>@string/vehicle_warning_77</item>
+        <item>@string/vehicle_warning_78</item>
+        <item>@string/vehicle_warning_79</item>
+        <item>@string/vehicle_warning_80</item>
+        <item>@string/vehicle_warning_81</item>
+        <item>@string/vehicle_warning_82</item>
+        <item>@string/vehicle_warning_83</item>
+        <item>@string/vehicle_warning_84</item>
+        <item>@string/vehicle_warning_85</item>
+        <item>@string/vehicle_warning_86</item>
+        <item>@string/vehicle_warning_87</item>
+        <item>@string/vehicle_warning_88</item>
+        <item>@string/vehicle_warning_89</item>
+        <item>@string/vehicle_warning_90</item>
+        <item>@string/vehicle_warning_91</item>
+        <item>@string/vehicle_warning_92</item>
+        <item>@string/vehicle_warning_93</item>
+        <item>@string/vehicle_warning_94</item>
+        <item>@string/vehicle_warning_95</item>
+        <item>@string/vehicle_warning_96</item>
+        <item>@string/vehicle_warning_97</item>
+        <item>@string/vehicle_warning_98</item>
+        <item>@string/vehicle_warning_99</item>
+        <item>@string/vehicle_warning_100</item>
+        <item>@string/vehicle_warning_101</item>
+        <item>@string/vehicle_warning_102</item>
+        <item>@string/vehicle_warning_103</item>
+        <item>@string/vehicle_warning_104</item>
+        <item>@string/vehicle_warning_105</item>
+        <item>@string/vehicle_warning_106</item>
+        <item>@string/vehicle_warning_107</item>
+        <item>@string/vehicle_warning_108</item>
+        <item>@string/vehicle_warning_109</item>
+        <item>@string/vehicle_warning_110</item>
+        <item>@string/vehicle_warning_111</item>
+        <item>@string/vehicle_warning_112</item>
+        <item>@string/vehicle_warning_113</item>
+        <item>@string/vehicle_warning_114</item>
+        <item>@string/vehicle_warning_115</item>
+        <item>@string/vehicle_warning_116</item>
+        <item>@string/vehicle_warning_117</item>
+        <item>@string/vehicle_warning_118</item>
+        <item>@string/vehicle_warning_119</item>
+        <item>@string/vehicle_warning_120</item>
+        <item>@string/vehicle_warning_121</item>
+        <item>@string/vehicle_warning_122</item>
+        <item>@string/vehicle_warning_123</item>
+        <item>@string/vehicle_warning_124</item>
+        <item>@string/vehicle_warning_125</item>
+        <item>@string/vehicle_warning_126</item>
+        <item>@string/vehicle_warning_127</item>
+        <item>@string/vehicle_warning_128</item>
+        <item>@string/vehicle_warning_129</item>
+        <item>@string/vehicle_warning_130</item>
+        <item>@string/vehicle_warning_131</item>
+        <item>@string/vehicle_warning_132</item>
+        <item>@string/vehicle_warning_133</item>
+        <item>@string/vehicle_warning_134</item>
+        <item>@string/vehicle_warning_135</item>
+        <item>@string/vehicle_warning_136</item>
+        <item>@string/vehicle_warning_137</item>
+        <item>@string/vehicle_warning_138</item>
+        <item>@string/vehicle_warning_139</item>
+        <item>@string/vehicle_warning_140</item>
+        <item>@string/vehicle_warning_141</item>
+        <item>@string/vehicle_warning_142</item>
+        <item>@string/vehicle_warning_143</item>
+        <item>@string/vehicle_warning_144</item>
+        <item>@string/vehicle_warning_145</item>
+        <item>@string/vehicle_warning_146</item>
+        <item>@string/vehicle_warning_147</item>
+        <item>@string/vehicle_warning_148</item>
+        <item>@string/vehicle_warning_149</item>
+        <item>@string/vehicle_warning_150</item>
+        <item>@string/vehicle_warning_151</item>
+        <item>@string/vehicle_warning_152</item>
+        <item>@string/vehicle_warning_153</item>
+        <item>@string/vehicle_warning_154</item>
+        <item>@string/vehicle_warning_155</item>
+        <item>@string/vehicle_warning_156</item>
+        <item>@string/vehicle_warning_157</item>
+        <item>@string/vehicle_warning_158</item>
+        <item>@string/vehicle_warning_159</item>
+        <item>@string/vehicle_warning_160</item>
+        <item>@string/vehicle_warning_161</item>
+        <item>@string/vehicle_warning_162</item>
+        <item>@string/vehicle_warning_163</item>
+        <item>@string/vehicle_warning_164</item>
+        <item>@string/vehicle_warning_165</item>
+        <item>@string/vehicle_warning_166</item>
+        <item>@string/vehicle_warning_167</item>
+        <item>@string/vehicle_warning_168</item>
+        <item>@string/vehicle_warning_169</item>
+        <item>@string/vehicle_warning_170</item>
+        <item>@string/vehicle_warning_171</item>
+        <item>@string/vehicle_warning_172</item>
+        <item>@string/vehicle_warning_173</item>
+        <item>@string/vehicle_warning_174</item>
+        <item>@string/vehicle_warning_175</item>
+        <item>@string/vehicle_warning_176</item>
+        <item>@string/vehicle_warning_177</item>
+        <item>@string/vehicle_warning_178</item>
+        <item>@string/vehicle_warning_179</item>
+        <item>@string/vehicle_warning_180</item>
+        <item>@string/vehicle_warning_181</item>
+        <item>@string/vehicle_warning_182</item>
+        <item>@string/vehicle_warning_183</item>
+        <item>@string/vehicle_warning_184</item>
+        <item>@string/vehicle_warning_185</item>
+        <item>@string/vehicle_warning_186</item>
+        <item>@string/vehicle_warning_187</item>
+        <item>@string/vehicle_warning_188</item>
+        <item>@string/vehicle_warning_189</item>
+        <item>@string/vehicle_warning_190</item>
+        <item>@string/vehicle_warning_191</item>
+        <item>@string/vehicle_warning_192</item>
+        <item>@string/vehicle_warning_193</item>
+        <item>@string/vehicle_warning_194</item>
+        <item>@string/vehicle_warning_195</item>
+        <item>@string/vehicle_warning_196</item>
+        <item>@string/vehicle_warning_197</item>
+        <item>@string/vehicle_warning_198</item>
+        <item>@string/vehicle_warning_199</item>
+        <item>@string/vehicle_warning_200</item>
+        <item>@string/vehicle_warning_201</item>
+        <item>@string/vehicle_warning_202</item>
+        <item>@string/vehicle_warning_203</item>
+        <item>@string/vehicle_warning_204</item>
+        <item>@string/vehicle_warning_205</item>
+        <item>@string/vehicle_warning_206</item>
+    </string-array>
+    <string-array name="array_volume_1_2_3">
+        <item>@string/volume1</item>
+        <item>@string/volume2</item>
+        <item>@string/volume3</item>
+    </string-array>
+    <string-array name="array_volume_volumeDisplay">
+        <item>@string/only_volume</item>
+        <item>@string/both_volume_display</item>
+    </string-array>
+    <string-array name="array_warning_warningAutoBrake">
+        <item>@string/only_alarm</item>
+        <item>@string/alarm_braking</item>
+    </string-array>
+    <string-array name="array_weak_middle_strong">
+        <item>@string/weak</item>
+        <item>@string/middle</item>
+        <item>@string/strong</item>
+    </string-array>
+    <string-array name="array_weak_strong">
+        <item>@string/weak</item>
+        <item>@string/strong</item>
+    </string-array>
+    <string-array name="array_weeks">
+        <item>@string/week_mon</item>
+        <item>@string/week_tue</item>
+        <item>@string/week_wed</item>
+        <item>@string/week_thur</item>
+        <item>@string/week_fri</item>
+        <item>@string/week_sat</item>
+        <item>@string/week_sun</item>
+    </string-array>
+    <string-array name="array_white_amber_bluegreen_red_blue_green">
+        <item>@string/white</item>
+        <item>@string/amber</item>
+        <item>@string/blue_green</item>
+        <item>@string/red</item>
+        <item>@string/blue</item>
+        <item>@string/green</item>
+    </string-array>
+    <string-array name="array_white_red_blue_orange_purple_grey_green_cyan">
+        <item>@string/white</item>
+        <item>@string/red</item>
+        <item>@string/blue</item>
+        <item>@string/orange</item>
+        <item>@string/purple</item>
+        <item>@string/grey</item>
+        <item>@string/green</item>
+        <item>@string/cyan</item>
+    </string-array>
+    <string-array name="array_xtrail_tips">
+        <item>@string/driver_safety_tips_1</item>
+        <item>@string/driver_safety_tips_2</item>
+        <item>@string/driver_safety_tips_3</item>
+        <item>@string/driver_safety_tips_4</item>
+        <item>@string/driver_safety_tips_5</item>
+        <item>@string/driver_safety_tips_6</item>
+        <item>@string/driver_safety_tips_7</item>
+        <item>@string/driver_safety_tips_8</item>
+        <item>@string/driver_safety_tips_9</item>
+        <item>@string/driver_safety_tips_10</item>
+        <item>@string/driver_safety_tips_11</item>
+        <item>@string/driver_safety_tips_12</item>
+        <item>@string/driver_safety_tips_13</item>
+        <item>@string/driver_safety_tips_14</item>
+        <item>@string/driver_safety_tips_15</item>
+        <item>@string/driver_safety_tips_16</item>
+        <item>@string/driver_safety_tips_17</item>
+        <item>@string/driver_safety_tips_18</item>
+        <item>@string/driver_safety_tips_19</item>
+        <item>@string/driver_safety_tips_20</item>
+        <item>@string/driver_safety_tips_21</item>
+        <item>@string/driver_safety_tips_22</item>
+        <item>@string/driver_safety_tips_23</item>
+        <item>@string/driver_safety_tips_24</item>
+        <item>@string/driver_safety_tips_25</item>
+        <item>@string/driver_safety_tips_26</item>
+        <item>@string/driver_safety_tips_27</item>
+        <item>@string/driver_safety_tips_28</item>
+        <item>@string/driver_safety_tips_29</item>
+        <item>@string/driver_safety_tips_30</item>
+        <item>@string/driver_safety_tips_31</item>
+        <item>@string/driver_safety_tips_32</item>
+        <item>@string/driver_safety_tips_33</item>
+        <item>@string/driver_safety_tips_34</item>
+        <item>@string/driver_safety_tips_35</item>
+        <item>@string/driver_safety_tips_36</item>
+        <item>@string/driver_safety_tips_37</item>
+        <item>@string/driver_safety_tips_38</item>
+        <item>@string/driver_safety_tips_39</item>
+    </string-array>
+    <string-array name="array_xtrail_tips_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>39</item>
+        <item>40</item>
+        <item>66</item>
+        <item>67</item>
+        <item>69</item>
+        <item>76</item>
+        <item>77</item>
+        <item>78</item>
+        <item>79</item>
+    </string-array>
+    <string-array name="array_yes_no">
+        <item>@string/yes</item>
+        <item>@string/no</item>
+    </string-array>
+    <string-array name="array_zoomIn_zoomOut">
+        <item>@string/zoom_in</item>
+        <item>@string/zoom_out</item>
+    </string-array>
+</resources>

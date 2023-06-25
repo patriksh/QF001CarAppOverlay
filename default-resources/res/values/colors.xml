@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_bg">#ff0f0f13</color>
+    <color name="app_top_bg">#ff1e1e21</color>
+    <color name="black">#ff000000</color>
+    <color name="border_line_color">#ffa1a9c1</color>
+    <color name="bottom_ac_text_color">#ff1ba6ff</color>
+    <color name="bottom_ac_text_default_color">#ff8a8c91</color>
+    <color name="customerize_btn_pressed">#66000000</color>
+    <color name="customerize_btn_unpress">#22000000</color>
+    <color name="gray">#ff808080</color>
+    <color name="green">#ff008000</color>
+    <color name="lightskyblue">#ff87cefa</color>
+    <color name="list_item_split_line_color">#ff3f3f3f</color>
+    <color name="navi_blue_shadow">#ffc9deee</color>
+    <color name="notification_action_color_filter">@color/secondary_text_default_material_light</color>
+    <color name="notification_icon_bg_color">#ff9e9e9e</color>
+    <color name="notification_material_background_media_default_color">#ff424242</color>
+    <color name="primary_text_default_material_dark">#ffffffff</color>
+    <color name="primarydark">#ff303f9f</color>
+    <color name="quick_search_text_color">#fff49702</color>
+    <color name="red">#ffff0000</color>
+    <color name="ripple_material_light">#1f000000</color>
+    <color name="secondary_text_default_material_dark">#b3ffffff</color>
+    <color name="secondary_text_default_material_light">#8a000000</color>
+    <color name="vertion_text_color">#ffa0a0a0</color>
+    <color name="white">#ffffffff</color>
+    <color name="yellow">#ffffff00</color>
+</resources>
