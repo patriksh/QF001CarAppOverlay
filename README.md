@@ -16,14 +16,14 @@ On the top right corner of this GitHub page, click on the green Code button and 
 
 ### 3. Modifying text & translations
 If you want to change the strings in the default, English language, open the [`default-resources/res/values/strings.xml`](https://github.com/patriksh/QF001CarAppOverlay/blob/master/default-resources/res/values/strings.xml) and find a string you want to translate.
-Copy it, and paste it to the new [`resources/res/values/strings.xml`](https://github.com/patriksh/QF001CarAppOverlay/blob/master/resources/res/values/strings.xml).
-Then you can change its text.
+Copy it, and paste it into [`resources/res/values/strings.xml`](https://github.com/patriksh/QF001CarAppOverlay/blob/master/resources/res/values/strings.xml).
+Then you can change its value.
 
-If you want to change strings in another language, repeat the same process, but first you have to make a folder for the appropriate language in the `resources/res/values/strings.xml` folder.
-If you were to, for example, change strings in the Croatian translation, you'd put your `strings.xml` inside `resources/res/values-hr/strings.xml`.
+If you want to change strings in another language, repeat the same process, but first you have to make a folder for the appropriate language in the `resources/res` folder.
+If you were to, for example, modify the Croatian translation, you'd put your `strings.xml` inside `resources/res/values-hr/strings.xml`.
 
 ### 4. Modifying images
-If you want to modify images, find them in the [`default-resources/res/drawable*` folders](https://github.com/patriksh/QF001CarAppOverlay/blob/master/default-resources/res/values/strings.xml), create the appropriate folder in the `resources/res/` folder, and put your modified image there.
+If you want to modify images, find them in the [`default-resources/res/drawable*` folders](https://github.com/patriksh/QF001CarAppOverlay/blob/master/default-resources/res/values/strings.xml), create the appropriate folder in the `resources/res/` folder, and put your new image there.
 
 ### 5. Compilation & installation
 Click on `compile.bat` and it will automatically compile and sign an overlay APK for you.
