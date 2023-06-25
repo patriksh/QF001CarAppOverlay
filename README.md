@@ -7,7 +7,7 @@ This is a tool that automatically creates an overlay for the CarAPP on the QF001
 ### 1. Preparation
 You must have JRE and JDK installed, link below:
 
-JDK: [https://www.oracle.com/java/technologies/javase-jdk14-downloads.html](https://www.oracle.com/java/technologies/javase-jdk14-downloads.html)
+JDK: [https://www.oracle.com/java/technologies/downloads/#jdk20-windows](https://www.oracle.com/java/technologies/downloads/#jdk20-windows)
 
 JRE: [https://www.java.com/en/download/](https://www.java.com/en/download/)
 
